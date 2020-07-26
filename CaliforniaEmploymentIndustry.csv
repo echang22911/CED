@@ -1,0 +1,1705 @@
+StartEndYear,Period,Area,Series code,Industry,Adjusted,Benchmark,No. of Employed
+2020,Jan,California,0,Total Nonfarm,Not Adj,2019,17445800
+2020,Jan,California,1000000,Total Wage and Salary,Not Adj,2019,17803600
+2020,Jan,California,5000000,Total Private,Not Adj,2019,14812200
+2020,Jan,California,6000000,Goods Producing,Not Adj,2019,2190500
+2020,Jan,California,7000000,Service Providing,Not Adj,2019,15255300
+2020,Jan,California,8000000,Private Service Providing,Not Adj,2019,12621700
+2020,Jan,California,10000000,Mining and Logging,Not Adj,2019,22100
+2020,Jan,California,10113300,Logging,Not Adj,2019,1400
+2020,Jan,California,10210000,Mining,Not Adj,2019,20700
+2020,Jan,California,10211000,Oil & Gas Extraction,Not Adj,2019,4700
+2020,Jan,California,10212000,"Mining, except Oil & Gas",Not Adj,2019,5900
+2020,Jan,California,10213000,Support Activities for Mining,Not Adj,2019,10100
+2020,Jan,California,11000000,Total Farm,Not Adj,2019,357800
+2020,Jan,California,15000000,"Natural Resources, Mining and Constructi",Not Adj,2019,883600
+2020,Jan,California,20000000,Construction,Not Adj,2019,861500
+2020,Jan,California,20236000,Construction of Buildings,Not Adj,2019,196300
+2020,Jan,California,20236100,Residential Building Construction,Not Adj,2019,115800
+2020,Jan,California,20236200,Nonresidential Building Construction,Not Adj,2019,80500
+2020,Jan,California,20237000,Heavy and Civil Engineering Construction,Not Adj,2019,90000
+2020,Jan,California,20237100,Utility System Const.,Not Adj,2019,48600
+2020,Jan,California,20237200,L& Subdivision,Not Adj,2019,6800
+2020,Jan,California,20237300,"Highway, Street, and Bridge Const",Not Adj,2019,24200
+2020,Jan,California,20237900,Other Heavy & Civil Engineer,Not Adj,2019,10400
+2020,Jan,California,20238000,Specialty Trade Contractors,Not Adj,2019,575200
+2020,Jan,California,20238100,Building Foundation and Exterior Contrac,Not Adj,2019,126200
+2020,Jan,California,20238200,Building Equipment Contractors,Not Adj,2019,245200
+2020,Jan,California,20238300,Building Finishing Contractors,Not Adj,2019,140000
+2020,Jan,California,20238900,Other Specialty Trade Contract,Not Adj,2019,63800
+2020,Jan,California,30000000,Manufacturing,Not Adj,2019,1306900
+2020,Jan,California,31000000,Durable Goods,Not Adj,2019,850400
+2020,Jan,California,31321000,Wood Product Manufacturing,Not Adj,2019,25400
+2020,Jan,California,31321900,Other Wood Product Mfg.,Not Adj,2019,18300
+2020,Jan,California,31327000,Nonmetallic Mineral Product Mfg.,Not Adj,2019,32300
+2020,Jan,California,31331000,Primary Metal Manufacturing,Not Adj,2019,16600
+2020,Jan,California,31332000,Fabricated Metal Product Mfg,Not Adj,2019,130500
+2020,Jan,California,31332300,Architectural & Structural Metals Mfg.,Not Adj,2019,33100
+2020,Jan,California,31332700,Machine Shops & Threaded Product Mfg.,Not Adj,2019,41400
+2020,Jan,California,31332900,Other Fabricated Metal Product Mfg.,Not Adj,2019,17700
+2020,Jan,California,31333000,Machinery Manufacturing,Not Adj,2019,77700
+2020,Jan,California,31333200,Industrial Machinery Manufacturing,Not Adj,2019,21400
+2020,Jan,California,31333300,Commercial and Service Industry Manufact,Not Adj,2019,11400
+2020,Jan,California,31333500,Metalworking Machinery Mfg.,Not Adj,2019,12200
+2020,Jan,California,31333900,ResidualOther General Purpose Machinery,Not Adj,2019,15200
+2020,Jan,California,31334000,Computer and Electronic Product Manufact,Not Adj,2019,287700
+2020,Jan,California,31334100,Computer and Peripheral Equipment Manufa,Not Adj,2019,79200
+2020,Jan,California,31334111,Electronic Computer Manufacturing,Not Adj,2019,68300
+2020,Jan,California,31334200,Communications Equipment Manufacturing,Not Adj,2019,17600
+2020,Jan,California,31334400,Semiconductor and Electronic Component M,Not Adj,2019,82500
+2020,Jan,California,31334412,Bare Printed Circuit Board Manufacturing,Not Adj,2019,8200
+2020,Jan,California,31334413,Semiconductor and Related Devices Manufa,Not Adj,2019,40900
+2020,Jan,California,31334500,Electronic Instrument Manufacturing,Not Adj,2019,95500
+2020,Jan,California,31335000,Electrical Equipment and Appliance Manuf,Not Adj,2019,32200
+2020,Jan,California,31336000,Transportation Equipment Manufacturing,Not Adj,2019,131200
+2020,Jan,California,31336100,Motor Vehicle Mfg.,Not Adj,2019,17200
+2020,Jan,California,31336400,Aerospace Product and Parts Manufacturin,Not Adj,2019,79600
+2020,Jan,California,31336600,Ship and Boat Building,Not Adj,2019,9200
+2020,Jan,California,31337000,Furniture and Related Product Manufactur,Not Adj,2019,31400
+2020,Jan,California,31337100,Household and Institutional Furniture Ma,Not Adj,2019,18700
+2020,Jan,California,31339000,Miscellaneous Durable Goods Manufacturing,Not Adj,2019,85400
+2020,Jan,California,31339100,Medical Equipment & Supplies Mfg.,Not Adj,2019,55900
+2020,Jan,California,31339900,Other Miscellaneous Durable Goods Mfg.,Not Adj,2019,29500
+2020,Jan,California,32000000,Nondurable Goods,Not Adj,2019,456500
+2020,Jan,California,32311000,Food Manufacturing,Not Adj,2019,155100
+2020,Jan,California,32311400,Fruit & Vegetable Preserving & Specialty,Not Adj,2019,22000
+2020,Jan,California,32311500,Dairy Product Manufacturing,Not Adj,2019,17000
+2020,Jan,California,32311600,Animal Slaughtering and Processing,Not Adj,2019,21800
+2020,Jan,California,32311800,Bakeries and Tortilla Manufacturing,Not Adj,2019,42400
+2020,Jan,California,32311900,Other Food Mfg.,Not Adj,2019,34900
+2020,Jan,California,32312000,Beverage and Tobacco Product Mfg,Not Adj,2019,61200
+2020,Jan,California,32313000,ResidualTextile Mills,Not Adj,2019,5300
+2020,Jan,California,32314000,Textile Product Mills,Not Adj,2019,8500
+2020,Jan,California,32315000,Apparel Manufacturing,Not Adj,2019,30200
+2020,Jan,California,32315100,Apparel Knitting Mills,Not Adj,2019,900
+2020,Jan,California,32315200,Cut and Sew Apparel Manufacturing,Not Adj,2019,28200
+2020,Jan,California,32322000,Paper Manufacturing,Not Adj,2019,20900
+2020,Jan,California,32322200,Converted Paper Product Mfg.,Not Adj,2019,19800
+2020,Jan,California,32323000,Printing and Related Support Activities,Not Adj,2019,36500
+2020,Jan,California,32324000,Petroleum and Coal Products Manufacturin,Not Adj,2019,12600
+2020,Jan,California,32325000,Chemical Manufacturing,Not Adj,2019,80700
+2020,Jan,California,32325400,Pharmaceutical and Medicine Manufacturin,Not Adj,2019,46200
+2020,Jan,California,32325600,"Soap, Cleaning Compound & Toiletry Mfg.",Not Adj,2019,12400
+2020,Jan,California,32326000,Plastics and Rubber Products Manufacturi,Not Adj,2019,42700
+2020,Jan,California,40000000,"Trade, Transportation and Utilities",Not Adj,2019,3064200
+2020,Jan,California,41000000,Wholesale Trade,Not Adj,2019,687800
+2020,Jan,California,41423000,"Merchant Wholesalers, Durable Goods",Not Adj,2019,350400
+2020,Jan,California,41423100,Motor Vehicle and Motor Vehicle Parts Me,Not Adj,2019,40500
+2020,Jan,California,41423200,Furniture & Home Furnish Merch whole,Not Adj,2019,21300
+2020,Jan,California,41423300,Lumber & Other Const. Mat Merch whole,Not Adj,2019,24000
+2020,Jan,California,41423400,Professional and Commercial Equipment Me,Not Adj,2019,79200
+2020,Jan,California,41423600,Electrical and Electronic Goods Merchant,Not Adj,2019,47900
+2020,Jan,California,41423700,"Hdwr, Plumb & Heating Merchant whole",Not Adj,2019,29600
+2020,Jan,California,41423800,"Machinery, Equipment and Supplies Mercha",Not Adj,2019,54700
+2020,Jan,California,41424000,"Merchant Wholesalers, Nondurable Goods",Not Adj,2019,293800
+2020,Jan,California,41424100,Paper & Paper Products Merchant whole,Not Adj,2019,14300
+2020,Jan,California,41424300,"Apparel, Piece Gds & Notions Merch whole",Not Adj,2019,38900
+2020,Jan,California,41424400,Grocery & Related Products Merchant whol,Not Adj,2019,111700
+2020,Jan,California,41424600,Chemical & Allied Products Merchant whol,Not Adj,2019,14600
+2020,Jan,California,41424900,Misc Nondurable Merchant Wholesalers,Not Adj,2019,49700
+2020,Jan,California,41425000,Wholesale Electronic Markets and Agents,Not Adj,2019,43600
+2020,Jan,California,42000000,Retail Trade,Not Adj,2019,1653800
+2020,Jan,California,42441000,Motor Vehicle and Parts Dealer,Not Adj,2019,196500
+2020,Jan,California,42441100,Automobile Dealers,Not Adj,2019,131500
+2020,Jan,California,42441200,Other Motor Vehicle Dealers,Not Adj,2019,12400
+2020,Jan,California,42441300,"Automotive Parts, Accessories and Tire S",Not Adj,2019,52600
+2020,Jan,California,42442000,Furniture and Home Furnishings Stores,Not Adj,2019,53900
+2020,Jan,California,42442100,Furniture Stores,Not Adj,2019,22000
+2020,Jan,California,42442200,Home Furnishings Stores,Not Adj,2019,31900
+2020,Jan,California,42443000,Electronics and Appliance Stores,Not Adj,2019,58400
+2020,Jan,California,42444000,Building Material and Garden Equipment S,Not Adj,2019,117100
+2020,Jan,California,42444100,Building Material and Supplies Dealers,Not Adj,2019,106400
+2020,Jan,California,42445000,Food and Beverage Stores,Not Adj,2019,354300
+2020,Jan,California,42445100,Grocery Stores,Not Adj,2019,310700
+2020,Jan,California,42445200,Specialty Food Stores,Not Adj,2019,26300
+2020,Jan,California,42445300,"Beer, Wine, & Liquor Stores",Not Adj,2019,17300
+2020,Jan,California,42446000,Health and Personal Care Stores,Not Adj,2019,115500
+2020,Jan,California,42447000,Gasoline Stations,Not Adj,2019,61800
+2020,Jan,California,42448000,Clothing and Clothing Accessories Stores,Not Adj,2019,191800
+2020,Jan,California,42448100,Clothing Stores,Not Adj,2019,148300
+2020,Jan,California,42448300,"Jewelry, Luggage & Leather Gds Stores",Not Adj,2019,15500
+2020,Jan,California,42451000,"Sporting Goods, Hobby, Book and Music St",Not Adj,2019,60500
+2020,Jan,California,42451100,"Sporting Goods, Hobby and Musical Instru",Not Adj,2019,51300
+2020,Jan,California,42451200,"Book, Periodical and Music Stores",Not Adj,2019,9200
+2020,Jan,California,42452000,General Merchandise Stores,Not Adj,2019,293500
+2020,Jan,California,42452200,Department Stores,Not Adj,2019,106600
+2020,Jan,California,42452300,"General Merchandise Stores, including Warehouse Clubs and Supercenters",Not Adj,2019,186900
+2020,Jan,California,42453000,Miscellaneous Store Retailers,Not Adj,2019,88900
+2020,Jan,California,42453200,"Office Supplies, Stationery & Gift Store",Not Adj,2019,27400
+2020,Jan,California,42453300,Used Merch&ise Stores,Not Adj,2019,18400
+2020,Jan,California,42453900,Other Miscellaneous Store Retailers,Not Adj,2019,38900
+2020,Jan,California,42454000,Nonstore Retailers,Not Adj,2019,61600
+2020,Jan,California,42454100,Electronic Shopping & Mail-Order,Not Adj,2019,51200
+2020,Jan,California,43000000,"Transportation, Warehousing and Utilitie",Not Adj,2019,722600
+2020,Jan,California,43220000,Utilities,Not Adj,2019,57000
+2020,Jan,California,43221100,"Electric Power Gen, Trans & Distribution",Not Adj,2019,18500
+2020,Jan,California,43221200,Natural Gas Distribution,Not Adj,2019,33200
+2020,Jan,California,43400089,Transportation and Warehousing,Not Adj,2019,665600
+2020,Jan,California,43481000,Air Transportation,Not Adj,2019,59900
+2020,Jan,California,43481100,Scheduled Air transp.,Not Adj,2019,54200
+2020,Jan,California,43484000,Truck Transportation,Not Adj,2019,130900
+2020,Jan,California,43484100,General Freight Trucking,Not Adj,2019,92200
+2020,Jan,California,43484200,Specialized Freight Trucking,Not Adj,2019,38700
+2020,Jan,California,43485000,Transit and Ground Passenger Transportat,Not Adj,2019,53500
+2020,Jan,California,43488000,Support Activities for Transportation,Not Adj,2019,113800
+2020,Jan,California,43488300,Support Activities for Water transp.,Not Adj,2019,22800
+2020,Jan,California,43488400,Support Activities for Road transp.,Not Adj,2019,15200
+2020,Jan,California,43488500,Freight transp. Arrangement,Not Adj,2019,33500
+2020,Jan,California,43492000,Couriers and Messengers,Not Adj,2019,115900
+2020,Jan,California,43493000,Warehousing and Storage,Not Adj,2019,169400
+2020,Jan,California,50000000,Information,Not Adj,2019,577000
+2020,Jan,California,50511000,Publishing Industries (except Internet),Not Adj,2019,121700
+2020,Jan,California,50511100,"Newspaper, Periodical, Book and Director",Not Adj,2019,23500
+2020,Jan,California,50511200,Software Publishers,Not Adj,2019,98200
+2020,Jan,California,50512000,Motion Picture and Sound Recording,Not Adj,2019,163500
+2020,Jan,California,50512100,Motion Picture & Video Industries,Not Adj,2019,159300
+2020,Jan,California,50512110,Motion Picture & Video Production,Not Adj,2019,125000
+2020,Jan,California,50515000,Broadcasting (except Internet),Not Adj,2019,43600
+2020,Jan,California,50515100,Radio and Television Broadcasting,Not Adj,2019,29100
+2020,Jan,California,50515200,Cable and Other Subscription Programming,Not Adj,2019,14500
+2020,Jan,California,50517000,Telecommunications,Not Adj,2019,66400
+2020,Jan,California,50517311,Wired Telecommunications Carriers,Not Adj,2019,45000
+2020,Jan,California,50518000,"Data Processing, Hosting & Related Services",Not Adj,2019,54300
+2020,Jan,California,50519000,Other Information Serv.,Not Adj,2019,127500
+2020,Jan,California,55000000,Financial Activities,Not Adj,2019,844000
+2020,Jan,California,55520000,Finance and Insurance,Not Adj,2019,541900
+2020,Jan,California,55522000,Credit Intermediation and Related Activi,Not Adj,2019,242700
+2020,Jan,California,55522100,Depository Credit Intermediation,Not Adj,2019,141100
+2020,Jan,California,55522200,Nondepository Credit Intermediation,Not Adj,2019,58500
+2020,Jan,California,55522300,Activities Related to Credit Intermediat,Not Adj,2019,43100
+2020,Jan,California,55523000,"Securities, Commodity Contracts and Inve",Not Adj,2019,98600
+2020,Jan,California,55523100,Securities & Commodity Contracts,Not Adj,2019,32800
+2020,Jan,California,55523900,Other Financial Investment Activities,Not Adj,2019,65300
+2020,Jan,California,55524000,Insurance Carriers and Related,Not Adj,2019,200600
+2020,Jan,California,55524100,Insurance Carriers,Not Adj,2019,81800
+2020,Jan,California,55524200,"Agencies, Brokerages, and Other Insuranc",Not Adj,2019,118800
+2020,Jan,California,55530000,Real Estate and Rental and Leasing,Not Adj,2019,302100
+2020,Jan,California,55531000,Real Estate,Not Adj,2019,234600
+2020,Jan,California,55531100,Lessors of Real Estate,Not Adj,2019,67300
+2020,Jan,California,55531200,Offices of Real Estate Agents and Broker,Not Adj,2019,54100
+2020,Jan,California,55531300,Activities Related to Real Estate,Not Adj,2019,113200
+2020,Jan,California,55532000,Rental and Leasing Services,Not Adj,2019,65000
+2020,Jan,California,55532100,Automotive Equipment Rental and Leasing,Not Adj,2019,25500
+2020,Jan,California,55532200,Consumer Goods Rental,Not Adj,2019,14800
+2020,Jan,California,55532300,General Rental Centers,Not Adj,2019,2800
+2020,Jan,California,55532400,Comm & Industrial Mach Rental & Leasing,Not Adj,2019,21900
+2020,Jan,California,60000000,Professional and Business Services,Not Adj,2019,2711600
+2020,Jan,California,60540000,"Professional, Scientific and Technical S",Not Adj,2019,1342600
+2020,Jan,California,60541100,Legal Services,Not Adj,2019,141200
+2020,Jan,California,60541200,"Accounting, Tax Preparation and Bookkeep",Not Adj,2019,132800
+2020,Jan,California,60541300,"Architectural, Engineering and Related S",Not Adj,2019,186400
+2020,Jan,California,60541400,Specialized Design Services,Not Adj,2019,24900
+2020,Jan,California,60541500,Computer Systems Design and Related Serv,Not Adj,2019,351200
+2020,Jan,California,60541600,"Management, Scientific and Technical Con",Not Adj,2019,209000
+2020,Jan,California,60541700,Scientific Research and Development Serv,Not Adj,2019,154900
+2020,Jan,California,60541800,Advertising and Related Services,Not Adj,2019,64700
+2020,Jan,California,60541900,"Other Professional, Scientific and Techn",Not Adj,2019,77500
+2020,Jan,California,60550000,Management of Companies and Enterprises,Not Adj,2019,252200
+2020,Jan,California,60560000,Administrative and Support and Waste Ser,Not Adj,2019,1116800
+2020,Jan,California,60561000,Administrative and Support Services,Not Adj,2019,1063500
+2020,Jan,California,60561100,Office Administrative Services,Not Adj,2019,76300
+2020,Jan,California,60561200,Facilities Support Serv.,Not Adj,2019,13000
+2020,Jan,California,60561300,Employment Services,Not Adj,2019,456100
+2020,Jan,California,60561400,Business Support Services,Not Adj,2019,62200
+2020,Jan,California,60561500,Travel Arrangement and Reservation Servi,Not Adj,2019,24700
+2020,Jan,California,60561600,Investigation and Security Services,Not Adj,2019,151600
+2020,Jan,California,60561700,Services to Buildings and Dwellings,Not Adj,2019,244900
+2020,Jan,California,60561900,ResidualOther Support Services,Not Adj,2019,34700
+2020,Jan,California,60562000,Waste Management and Remediation Service,Not Adj,2019,53300
+2020,Jan,California,65000000,Educational and Health Services,Not Adj,2019,2839900
+2020,Jan,California,65610000,Educational Services,Not Adj,2019,385500
+2020,Jan,California,65611100,Elementary and Secondary Schools,Not Adj,2019,101700
+2020,Jan,California,65611200,Junior Colleges,Not Adj,2019,2600
+2020,Jan,California,65611300,"Colleges, Universities and Professional",Not Adj,2019,158300
+2020,Jan,California,65611600,Other Schools & Instruction,Not Adj,2019,76400
+2020,Jan,California,65620000,Health Care and Social Assistance,Not Adj,2019,2454400
+2020,Jan,California,65621000,Ambulatory Health Care Services,Not Adj,2019,883900
+2020,Jan,California,65621100,Offices of Physicians,Not Adj,2019,246200
+2020,Jan,California,65621200,Offices of Dentists,Not Adj,2019,137600
+2020,Jan,California,65621300,Offices of Other Health Practitioners,Not Adj,2019,106200
+2020,Jan,California,65621400,Outpatient Care Centers,Not Adj,2019,227300
+2020,Jan,California,65621500,Medical & Diagnostic Laboratories,Not Adj,2019,38600
+2020,Jan,California,65621600,Home Health Care Serv.,Not Adj,2019,97600
+2020,Jan,California,65621900,Other Ambulatory Health Care Serv.,Not Adj,2019,30400
+2020,Jan,California,65622000,Hospitals,Not Adj,2019,406700
+2020,Jan,California,65622100,General Medical & Surgical Hosp.s,Not Adj,2019,381900
+2020,Jan,California,65622200,Psychiatric & Substance Abuse Hosp,Not Adj,2019,8800
+2020,Jan,California,65622300,"Specialty (not Psych, Sub Abuse) Hosp.",Not Adj,2019,16000
+2020,Jan,California,65623000,Nursing and Residential Care Facilities,Not Adj,2019,306200
+2020,Jan,California,65623100,Nursing Care Facilities,Not Adj,2019,138900
+2020,Jan,California,65623200,"Residential Mental Retardation, Mental a",Not Adj,2019,56100
+2020,Jan,California,65623300,Comm Care Facilities for the Elderly,Not Adj,2019,99300
+2020,Jan,California,65623900,Other Residential Care Facilities,Not Adj,2019,11900
+2020,Jan,California,65624000,Social Assistance,Not Adj,2019,857600
+2020,Jan,California,65624100,Individual and Family Services,Not Adj,2019,720500
+2020,Jan,California,65624200,"Community Food & Housing, & Emergency &",Not Adj,2019,22800
+2020,Jan,California,65624300,Vocational Rehabilitation Services,Not Adj,2019,36100
+2020,Jan,California,65624400,Child Day Care Services,Not Adj,2019,78200
+2020,Jan,California,70000000,Leisure and Hospitality,Not Adj,2019,2009800
+2020,Jan,California,70710000,"Arts, Entertainment, and Recreation",Not Adj,2019,322500
+2020,Jan,California,70711000,"Performing Arts, Spectator Sports",Not Adj,2019,69600
+2020,Jan,California,70711100,Performing Arts Companies,Not Adj,2019,14000
+2020,Jan,California,70711200,Spectator Sports,Not Adj,2019,12900
+2020,Jan,California,70711500,"Independent Artists, Writers, and Perfor",Not Adj,2019,14300
+2020,Jan,California,70712000,"Museums, Historical Sites, and Similar I",Not Adj,2019,20600
+2020,Jan,California,70713000,"Amusement, Gambling, and Recreation",Not Adj,2019,232300
+2020,Jan,California,70713100,Amusement Parks and Arcades,Not Adj,2019,47500
+2020,Jan,California,70713200,Gambling Industries,Not Adj,2019,17100
+2020,Jan,California,70713900,Other Amusement and Recreation,Not Adj,2019,167700
+2020,Jan,California,70720000,Accommodation and Food Service,Not Adj,2019,1687300
+2020,Jan,California,70721000,Accommodation,Not Adj,2019,236200
+2020,Jan,California,70722000,Food Services and Drinking Places,Not Adj,2019,1451100
+2020,Jan,California,70722300,Special Food Services,Not Adj,2019,70200
+2020,Jan,California,70722400,Drinking Places (Alcoholic Beverages),Not Adj,2019,35000
+2020,Jan,California,70722511,Full-Service Restaurants,Not Adj,2019,645700
+2020,Jan,California,70722590,Limited-Service Eating Places,Not Adj,2019,700200
+2020,Jan,California,80000000,Other Services,Not Adj,2019,575200
+2020,Jan,California,80811000,Repair and Maintenance,Not Adj,2019,157200
+2020,Jan,California,80811100,Auto Repair & Maintenance,Not Adj,2019,119500
+2020,Jan,California,80811300,Commercial & Industrial Machinery,Not Adj,2019,18400
+2020,Jan,California,80811400,Personal & Household Goods Repair,Not Adj,2019,8700
+2020,Jan,California,80812000,Personal and Laundry Services,Not Adj,2019,187000
+2020,Jan,California,80812100,Personal Care Serv.,Not Adj,2019,88400
+2020,Jan,California,80812300,Drycleaning & Laundry Serv.,Not Adj,2019,34600
+2020,Jan,California,80812900,Other Personal Services,Not Adj,2019,52800
+2020,Jan,California,80813000,"Religious, Grantmaking, Civic, Professio",Not Adj,2019,231000
+2020,Jan,California,80813100,Religious Organizations,Not Adj,2019,93200
+2020,Jan,California,80813200,Grantmaking & Giving Serv.,Not Adj,2019,26000
+2020,Jan,California,80813300,Social Advocacy Organizations,Not Adj,2019,28000
+2020,Jan,California,80813400,Civic & Social Organizations,Not Adj,2019,43200
+2020,Jan,California,80813900,"Bus,Labor, Political & Other like Org.",Not Adj,2019,40600
+2020,Jan,California,90000000,Government,Not Adj,2019,2633600
+2020,Jan,California,90910000,Federal Government,Not Adj,2019,248800
+2020,Jan,California,90912991,Federal Government excluding Department of Defense,Not Adj,2019,184000
+2020,Jan,California,90919110,Department of Defense,Not Adj,2019,64800
+2020,Jan,California,90920000,State Government,Not Adj,2019,549600
+2020,Jan,California,90921611,State Government Education,Not Adj,2019,272000
+2020,Jan,California,90922000,State Government Excluding Education,Not Adj,2019,277600
+2020,Jan,California,90930000,Local Government,Not Adj,2019,1835200
+2020,Jan,California,90931150,Indian Tribes,Not Adj,2019,67200
+2020,Jan,California,90931611,Local Government Education,Not Adj,2019,1005900
+2020,Jan,California,90932000,Local Government Excluding Education,Not Adj,2019,829300
+2020,Jan,California,90939012,County,Not Adj,2019,358100
+2020,Jan,California,90939022,City,Not Adj,2019,272900
+2020,Jan,California,90939032,Special Districts,Not Adj,2019,131100
+2020,Jan,California,90940000,State and Local Government,Not Adj,2019,2384800
+2020,Feb,California,0,Total Nonfarm,Not Adj,2019,17541400
+2020,Feb,California,1000000,Total Wage and Salary,Not Adj,2019,17902200
+2020,Feb,California,5000000,Total Private,Not Adj,2019,14888100
+2020,Feb,California,6000000,Goods Producing,Not Adj,2019,2204200
+2020,Feb,California,7000000,Service Providing,Not Adj,2019,15337200
+2020,Feb,California,8000000,Private Service Providing,Not Adj,2019,12683900
+2020,Feb,California,10000000,Mining and Logging,Not Adj,2019,21900
+2020,Feb,California,10113300,Logging,Not Adj,2019,1300
+2020,Feb,California,10210000,Mining,Not Adj,2019,20600
+2020,Feb,California,10211000,Oil & Gas Extraction,Not Adj,2019,4700
+2020,Feb,California,10212000,"Mining, except Oil & Gas",Not Adj,2019,5900
+2020,Feb,California,10213000,Support Activities for Mining,Not Adj,2019,10000
+2020,Feb,California,11000000,Total Farm,Not Adj,2019,360800
+2020,Feb,California,15000000,"Natural Resources, Mining and Constructi",Not Adj,2019,897600
+2020,Feb,California,20000000,Construction,Not Adj,2019,875700
+2020,Feb,California,20236000,Construction of Buildings,Not Adj,2019,198700
+2020,Feb,California,20236100,Residential Building Construction,Not Adj,2019,115500
+2020,Feb,California,20236200,Nonresidential Building Construction,Not Adj,2019,83200
+2020,Feb,California,20237000,Heavy and Civil Engineering Construction,Not Adj,2019,92000
+2020,Feb,California,20237100,Utility System Const.,Not Adj,2019,50000
+2020,Feb,California,20237200,L& Subdivision,Not Adj,2019,6900
+2020,Feb,California,20237300,"Highway, Street, and Bridge Const",Not Adj,2019,24600
+2020,Feb,California,20237900,Other Heavy & Civil Engineer,Not Adj,2019,10500
+2020,Feb,California,20238000,Specialty Trade Contractors,Not Adj,2019,585000
+2020,Feb,California,20238100,Building Foundation and Exterior Contrac,Not Adj,2019,130300
+2020,Feb,California,20238200,Building Equipment Contractors,Not Adj,2019,244600
+2020,Feb,California,20238300,Building Finishing Contractors,Not Adj,2019,145200
+2020,Feb,California,20238900,Other Specialty Trade Contract,Not Adj,2019,64900
+2020,Feb,California,30000000,Manufacturing,Not Adj,2019,1306600
+2020,Feb,California,31000000,Durable Goods,Not Adj,2019,850200
+2020,Feb,California,31321000,Wood Product Manufacturing,Not Adj,2019,25400
+2020,Feb,California,31321900,Other Wood Product Mfg.,Not Adj,2019,18300
+2020,Feb,California,31327000,Nonmetallic Mineral Product Mfg.,Not Adj,2019,32200
+2020,Feb,California,31331000,Primary Metal Manufacturing,Not Adj,2019,16600
+2020,Feb,California,31332000,Fabricated Metal Product Mfg,Not Adj,2019,130400
+2020,Feb,California,31332300,Architectural & Structural Metals Mfg.,Not Adj,2019,32900
+2020,Feb,California,31332700,Machine Shops & Threaded Product Mfg.,Not Adj,2019,42000
+2020,Feb,California,31332900,Other Fabricated Metal Product Mfg.,Not Adj,2019,17800
+2020,Feb,California,31333000,Machinery Manufacturing,Not Adj,2019,77800
+2020,Feb,California,31333200,Industrial Machinery Manufacturing,Not Adj,2019,21400
+2020,Feb,California,31333300,Commercial and Service Industry Manufact,Not Adj,2019,11400
+2020,Feb,California,31333500,Metalworking Machinery Mfg.,Not Adj,2019,12200
+2020,Feb,California,31333900,ResidualOther General Purpose Machinery,Not Adj,2019,15100
+2020,Feb,California,31334000,Computer and Electronic Product Manufact,Not Adj,2019,287300
+2020,Feb,California,31334100,Computer and Peripheral Equipment Manufa,Not Adj,2019,79200
+2020,Feb,California,31334111,Electronic Computer Manufacturing,Not Adj,2019,68300
+2020,Feb,California,31334200,Communications Equipment Manufacturing,Not Adj,2019,17500
+2020,Feb,California,31334400,Semiconductor and Electronic Component M,Not Adj,2019,82300
+2020,Feb,California,31334412,Bare Printed Circuit Board Manufacturing,Not Adj,2019,8200
+2020,Feb,California,31334413,Semiconductor and Related Devices Manufa,Not Adj,2019,40700
+2020,Feb,California,31334500,Electronic Instrument Manufacturing,Not Adj,2019,95200
+2020,Feb,California,31335000,Electrical Equipment and Appliance Manuf,Not Adj,2019,32200
+2020,Feb,California,31336000,Transportation Equipment Manufacturing,Not Adj,2019,131400
+2020,Feb,California,31336100,Motor Vehicle Mfg.,Not Adj,2019,17100
+2020,Feb,California,31336400,Aerospace Product and Parts Manufacturin,Not Adj,2019,79400
+2020,Feb,California,31336600,Ship and Boat Building,Not Adj,2019,9300
+2020,Feb,California,31337000,Furniture and Related Product Manufactur,Not Adj,2019,31300
+2020,Feb,California,31337100,Household and Institutional Furniture Ma,Not Adj,2019,18600
+2020,Feb,California,31339000,Miscellaneous Durable Goods Manufacturing,Not Adj,2019,85600
+2020,Feb,California,31339100,Medical Equipment & Supplies Mfg.,Not Adj,2019,56000
+2020,Feb,California,31339900,Other Miscellaneous Durable Goods Mfg.,Not Adj,2019,29600
+2020,Feb,California,32000000,Nondurable Goods,Not Adj,2019,456400
+2020,Feb,California,32311000,Food Manufacturing,Not Adj,2019,155400
+2020,Feb,California,32311400,Fruit & Vegetable Preserving & Specialty,Not Adj,2019,22500
+2020,Feb,California,32311500,Dairy Product Manufacturing,Not Adj,2019,17000
+2020,Feb,California,32311600,Animal Slaughtering and Processing,Not Adj,2019,21800
+2020,Feb,California,32311800,Bakeries and Tortilla Manufacturing,Not Adj,2019,42400
+2020,Feb,California,32311900,Other Food Mfg.,Not Adj,2019,35000
+2020,Feb,California,32312000,Beverage and Tobacco Product Mfg,Not Adj,2019,61600
+2020,Feb,California,32313000,ResidualTextile Mills,Not Adj,2019,5300
+2020,Feb,California,32314000,Textile Product Mills,Not Adj,2019,8600
+2020,Feb,California,32315000,Apparel Manufacturing,Not Adj,2019,29500
+2020,Feb,California,32315100,Apparel Knitting Mills,Not Adj,2019,900
+2020,Feb,California,32315200,Cut and Sew Apparel Manufacturing,Not Adj,2019,28000
+2020,Feb,California,32322000,Paper Manufacturing,Not Adj,2019,20800
+2020,Feb,California,32322200,Converted Paper Product Mfg.,Not Adj,2019,19800
+2020,Feb,California,32323000,Printing and Related Support Activities,Not Adj,2019,36700
+2020,Feb,California,32324000,Petroleum and Coal Products Manufacturin,Not Adj,2019,12500
+2020,Feb,California,32325000,Chemical Manufacturing,Not Adj,2019,80400
+2020,Feb,California,32325400,Pharmaceutical and Medicine Manufacturin,Not Adj,2019,46100
+2020,Feb,California,32325600,"Soap, Cleaning Compound & Toiletry Mfg.",Not Adj,2019,12400
+2020,Feb,California,32326000,Plastics and Rubber Products Manufacturi,Not Adj,2019,42800
+2020,Feb,California,40000000,"Trade, Transportation and Utilities",Not Adj,2019,3038700
+2020,Feb,California,41000000,Wholesale Trade,Not Adj,2019,688800
+2020,Feb,California,41423000,"Merchant Wholesalers, Durable Goods",Not Adj,2019,351500
+2020,Feb,California,41423100,Motor Vehicle and Motor Vehicle Parts Me,Not Adj,2019,40800
+2020,Feb,California,41423200,Furniture & Home Furnish Merch whole,Not Adj,2019,21500
+2020,Feb,California,41423300,Lumber & Other Const. Mat Merch whole,Not Adj,2019,24100
+2020,Feb,California,41423400,Professional and Commercial Equipment Me,Not Adj,2019,79800
+2020,Feb,California,41423600,Electrical and Electronic Goods Merchant,Not Adj,2019,47800
+2020,Feb,California,41423700,"Hdwr, Plumb & Heating Merchant whole",Not Adj,2019,29800
+2020,Feb,California,41423800,"Machinery, Equipment and Supplies Mercha",Not Adj,2019,54200
+2020,Feb,California,41424000,"Merchant Wholesalers, Nondurable Goods",Not Adj,2019,294400
+2020,Feb,California,41424100,Paper & Paper Products Merchant whole,Not Adj,2019,14300
+2020,Feb,California,41424300,"Apparel, Piece Gds & Notions Merch whole",Not Adj,2019,39400
+2020,Feb,California,41424400,Grocery & Related Products Merchant whol,Not Adj,2019,111900
+2020,Feb,California,41424600,Chemical & Allied Products Merchant whol,Not Adj,2019,14700
+2020,Feb,California,41424900,Misc Nondurable Merchant Wholesalers,Not Adj,2019,50300
+2020,Feb,California,41425000,Wholesale Electronic Markets and Agents,Not Adj,2019,42900
+2020,Feb,California,42000000,Retail Trade,Not Adj,2019,1637000
+2020,Feb,California,42441000,Motor Vehicle and Parts Dealer,Not Adj,2019,196400
+2020,Feb,California,42441100,Automobile Dealers,Not Adj,2019,130900
+2020,Feb,California,42441200,Other Motor Vehicle Dealers,Not Adj,2019,12500
+2020,Feb,California,42441300,"Automotive Parts, Accessories and Tire S",Not Adj,2019,53000
+2020,Feb,California,42442000,Furniture and Home Furnishings Stores,Not Adj,2019,52700
+2020,Feb,California,42442100,Furniture Stores,Not Adj,2019,22000
+2020,Feb,California,42442200,Home Furnishings Stores,Not Adj,2019,30700
+2020,Feb,California,42443000,Electronics and Appliance Stores,Not Adj,2019,57000
+2020,Feb,California,42444000,Building Material and Garden Equipment S,Not Adj,2019,118500
+2020,Feb,California,42444100,Building Material and Supplies Dealers,Not Adj,2019,107700
+2020,Feb,California,42445000,Food and Beverage Stores,Not Adj,2019,356400
+2020,Feb,California,42445100,Grocery Stores,Not Adj,2019,312500
+2020,Feb,California,42445200,Specialty Food Stores,Not Adj,2019,26500
+2020,Feb,California,42445300,"Beer, Wine, & Liquor Stores",Not Adj,2019,17400
+2020,Feb,California,42446000,Health and Personal Care Stores,Not Adj,2019,113800
+2020,Feb,California,42447000,Gasoline Stations,Not Adj,2019,62300
+2020,Feb,California,42448000,Clothing and Clothing Accessories Stores,Not Adj,2019,184700
+2020,Feb,California,42448100,Clothing Stores,Not Adj,2019,142600
+2020,Feb,California,42448300,"Jewelry, Luggage & Leather Gds Stores",Not Adj,2019,15000
+2020,Feb,California,42451000,"Sporting Goods, Hobby, Book and Music St",Not Adj,2019,60000
+2020,Feb,California,42451100,"Sporting Goods, Hobby and Musical Instru",Not Adj,2019,50500
+2020,Feb,California,42451200,"Book, Periodical and Music Stores",Not Adj,2019,9500
+2020,Feb,California,42452000,General Merchandise Stores,Not Adj,2019,282600
+2020,Feb,California,42452200,Department Stores,Not Adj,2019,100700
+2020,Feb,California,42452300,"General Merchandise Stores, including Warehouse Clubs and Supercenters",Not Adj,2019,181900
+2020,Feb,California,42453000,Miscellaneous Store Retailers,Not Adj,2019,89200
+2020,Feb,California,42453200,"Office Supplies, Stationery & Gift Store",Not Adj,2019,27300
+2020,Feb,California,42453300,Used Merch&ise Stores,Not Adj,2019,18400
+2020,Feb,California,42453900,Other Miscellaneous Store Retailers,Not Adj,2019,39600
+2020,Feb,California,42454000,Nonstore Retailers,Not Adj,2019,63400
+2020,Feb,California,42454100,Electronic Shopping & Mail-Order,Not Adj,2019,52200
+2020,Feb,California,43000000,"Transportation, Warehousing and Utilitie",Not Adj,2019,712900
+2020,Feb,California,43220000,Utilities,Not Adj,2019,56800
+2020,Feb,California,43221100,"Electric Power Gen, Trans & Distribution",Not Adj,2019,18500
+2020,Feb,California,43221200,Natural Gas Distribution,Not Adj,2019,33100
+2020,Feb,California,43400089,Transportation and Warehousing,Not Adj,2019,656100
+2020,Feb,California,43481000,Air Transportation,Not Adj,2019,59700
+2020,Feb,California,43481100,Scheduled Air transp.,Not Adj,2019,53800
+2020,Feb,California,43484000,Truck Transportation,Not Adj,2019,132900
+2020,Feb,California,43484100,General Freight Trucking,Not Adj,2019,93300
+2020,Feb,California,43484200,Specialized Freight Trucking,Not Adj,2019,39600
+2020,Feb,California,43485000,Transit and Ground Passenger Transportat,Not Adj,2019,54000
+2020,Feb,California,43488000,Support Activities for Transportation,Not Adj,2019,114200
+2020,Feb,California,43488300,Support Activities for Water transp.,Not Adj,2019,21600
+2020,Feb,California,43488400,Support Activities for Road transp.,Not Adj,2019,15300
+2020,Feb,California,43488500,Freight transp. Arrangement,Not Adj,2019,33600
+2020,Feb,California,43492000,Couriers and Messengers,Not Adj,2019,103900
+2020,Feb,California,43493000,Warehousing and Storage,Not Adj,2019,169100
+2020,Feb,California,50000000,Information,Not Adj,2019,592600
+2020,Feb,California,50511000,Publishing Industries (except Internet),Not Adj,2019,121800
+2020,Feb,California,50511100,"Newspaper, Periodical, Book and Director",Not Adj,2019,23500
+2020,Feb,California,50511200,Software Publishers,Not Adj,2019,98300
+2020,Feb,California,50512000,Motion Picture and Sound Recording,Not Adj,2019,176600
+2020,Feb,California,50512100,Motion Picture & Video Industries,Not Adj,2019,172000
+2020,Feb,California,50512110,Motion Picture & Video Production,Not Adj,2019,137000
+2020,Feb,California,50515000,Broadcasting (except Internet),Not Adj,2019,43900
+2020,Feb,California,50515100,Radio and Television Broadcasting,Not Adj,2019,29400
+2020,Feb,California,50515200,Cable and Other Subscription Programming,Not Adj,2019,14500
+2020,Feb,California,50517000,Telecommunications,Not Adj,2019,66800
+2020,Feb,California,50517311,Wired Telecommunications Carriers,Not Adj,2019,44900
+2020,Feb,California,50518000,"Data Processing, Hosting & Related Services",Not Adj,2019,55100
+2020,Feb,California,50519000,Other Information Serv.,Not Adj,2019,128400
+2020,Feb,California,55000000,Financial Activities,Not Adj,2019,849900
+2020,Feb,California,55520000,Finance and Insurance,Not Adj,2019,545200
+2020,Feb,California,55522000,Credit Intermediation and Related Activi,Not Adj,2019,244000
+2020,Feb,California,55522100,Depository Credit Intermediation,Not Adj,2019,142100
+2020,Feb,California,55522200,Nondepository Credit Intermediation,Not Adj,2019,58700
+2020,Feb,California,55522300,Activities Related to Credit Intermediat,Not Adj,2019,43200
+2020,Feb,California,55523000,"Securities, Commodity Contracts and Inve",Not Adj,2019,99300
+2020,Feb,California,55523100,Securities & Commodity Contracts,Not Adj,2019,32900
+2020,Feb,California,55523900,Other Financial Investment Activities,Not Adj,2019,65900
+2020,Feb,California,55524000,Insurance Carriers and Related,Not Adj,2019,201900
+2020,Feb,California,55524100,Insurance Carriers,Not Adj,2019,81600
+2020,Feb,California,55524200,"Agencies, Brokerages, and Other Insuranc",Not Adj,2019,120300
+2020,Feb,California,55530000,Real Estate and Rental and Leasing,Not Adj,2019,304700
+2020,Feb,California,55531000,Real Estate,Not Adj,2019,236600
+2020,Feb,California,55531100,Lessors of Real Estate,Not Adj,2019,68600
+2020,Feb,California,55531200,Offices of Real Estate Agents and Broker,Not Adj,2019,54700
+2020,Feb,California,55531300,Activities Related to Real Estate,Not Adj,2019,113300
+2020,Feb,California,55532000,Rental and Leasing Services,Not Adj,2019,65900
+2020,Feb,California,55532100,Automotive Equipment Rental and Leasing,Not Adj,2019,25800
+2020,Feb,California,55532200,Consumer Goods Rental,Not Adj,2019,14900
+2020,Feb,California,55532300,General Rental Centers,Not Adj,2019,2800
+2020,Feb,California,55532400,Comm & Industrial Mach Rental & Leasing,Not Adj,2019,22400
+2020,Feb,California,60000000,Professional and Business Services,Not Adj,2019,2733200
+2020,Feb,California,60540000,"Professional, Scientific and Technical S",Not Adj,2019,1359100
+2020,Feb,California,60541100,Legal Services,Not Adj,2019,140700
+2020,Feb,California,60541200,"Accounting, Tax Preparation and Bookkeep",Not Adj,2019,145800
+2020,Feb,California,60541300,"Architectural, Engineering and Related S",Not Adj,2019,187600
+2020,Feb,California,60541400,Specialized Design Services,Not Adj,2019,24300
+2020,Feb,California,60541500,Computer Systems Design and Related Serv,Not Adj,2019,352500
+2020,Feb,California,60541600,"Management, Scientific and Technical Con",Not Adj,2019,209100
+2020,Feb,California,60541700,Scientific Research and Development Serv,Not Adj,2019,156100
+2020,Feb,California,60541800,Advertising and Related Services,Not Adj,2019,65800
+2020,Feb,California,60541900,"Other Professional, Scientific and Techn",Not Adj,2019,77200
+2020,Feb,California,60550000,Management of Companies and Enterprises,Not Adj,2019,251200
+2020,Feb,California,60560000,Administrative and Support and Waste Ser,Not Adj,2019,1122900
+2020,Feb,California,60561000,Administrative and Support Services,Not Adj,2019,1068600
+2020,Feb,California,60561100,Office Administrative Services,Not Adj,2019,77300
+2020,Feb,California,60561200,Facilities Support Serv.,Not Adj,2019,13100
+2020,Feb,California,60561300,Employment Services,Not Adj,2019,453900
+2020,Feb,California,60561400,Business Support Services,Not Adj,2019,61800
+2020,Feb,California,60561500,Travel Arrangement and Reservation Servi,Not Adj,2019,25000
+2020,Feb,California,60561600,Investigation and Security Services,Not Adj,2019,156800
+2020,Feb,California,60561700,Services to Buildings and Dwellings,Not Adj,2019,246200
+2020,Feb,California,60561900,ResidualOther Support Services,Not Adj,2019,34500
+2020,Feb,California,60562000,Waste Management and Remediation Service,Not Adj,2019,54300
+2020,Feb,California,65000000,Educational and Health Services,Not Adj,2019,2866300
+2020,Feb,California,65610000,Educational Services,Not Adj,2019,404200
+2020,Feb,California,65611100,Elementary and Secondary Schools,Not Adj,2019,103400
+2020,Feb,California,65611200,Junior Colleges,Not Adj,2019,2700
+2020,Feb,California,65611300,"Colleges, Universities and Professional",Not Adj,2019,170900
+2020,Feb,California,65611600,Other Schools & Instruction,Not Adj,2019,78600
+2020,Feb,California,65620000,Health Care and Social Assistance,Not Adj,2019,2462100
+2020,Feb,California,65621000,Ambulatory Health Care Services,Not Adj,2019,886700
+2020,Feb,California,65621100,Offices of Physicians,Not Adj,2019,246600
+2020,Feb,California,65621200,Offices of Dentists,Not Adj,2019,138100
+2020,Feb,California,65621300,Offices of Other Health Practitioners,Not Adj,2019,107300
+2020,Feb,California,65621400,Outpatient Care Centers,Not Adj,2019,227000
+2020,Feb,California,65621500,Medical & Diagnostic Laboratories,Not Adj,2019,38500
+2020,Feb,California,65621600,Home Health Care Serv.,Not Adj,2019,98500
+2020,Feb,California,65621900,Other Ambulatory Health Care Serv.,Not Adj,2019,30700
+2020,Feb,California,65622000,Hospitals,Not Adj,2019,406600
+2020,Feb,California,65622100,General Medical & Surgical Hosp.s,Not Adj,2019,381800
+2020,Feb,California,65622200,Psychiatric & Substance Abuse Hosp,Not Adj,2019,8800
+2020,Feb,California,65622300,"Specialty (not Psych, Sub Abuse) Hosp.",Not Adj,2019,16000
+2020,Feb,California,65623000,Nursing and Residential Care Facilities,Not Adj,2019,305900
+2020,Feb,California,65623100,Nursing Care Facilities,Not Adj,2019,138700
+2020,Feb,California,65623200,"Residential Mental Retardation, Mental a",Not Adj,2019,55700
+2020,Feb,California,65623300,Comm Care Facilities for the Elderly,Not Adj,2019,99700
+2020,Feb,California,65623900,Other Residential Care Facilities,Not Adj,2019,11800
+2020,Feb,California,65624000,Social Assistance,Not Adj,2019,862900
+2020,Feb,California,65624100,Individual and Family Services,Not Adj,2019,725200
+2020,Feb,California,65624200,"Community Food & Housing, & Emergency &",Not Adj,2019,22900
+2020,Feb,California,65624300,Vocational Rehabilitation Services,Not Adj,2019,36400
+2020,Feb,California,65624400,Child Day Care Services,Not Adj,2019,78400
+2020,Feb,California,70000000,Leisure and Hospitality,Not Adj,2019,2027000
+2020,Feb,California,70710000,"Arts, Entertainment, and Recreation",Not Adj,2019,323300
+2020,Feb,California,70711000,"Performing Arts, Spectator Sports",Not Adj,2019,70600
+2020,Feb,California,70711100,Performing Arts Companies,Not Adj,2019,15100
+2020,Feb,California,70711200,Spectator Sports,Not Adj,2019,13300
+2020,Feb,California,70711500,"Independent Artists, Writers, and Perfor",Not Adj,2019,14500
+2020,Feb,California,70712000,"Museums, Historical Sites, and Similar I",Not Adj,2019,20700
+2020,Feb,California,70713000,"Amusement, Gambling, and Recreation",Not Adj,2019,232000
+2020,Feb,California,70713100,Amusement Parks and Arcades,Not Adj,2019,46800
+2020,Feb,California,70713200,Gambling Industries,Not Adj,2019,17100
+2020,Feb,California,70713900,Other Amusement and Recreation,Not Adj,2019,168100
+2020,Feb,California,70720000,Accommodation and Food Service,Not Adj,2019,1703700
+2020,Feb,California,70721000,Accommodation,Not Adj,2019,237000
+2020,Feb,California,70722000,Food Services and Drinking Places,Not Adj,2019,1466700
+2020,Feb,California,70722300,Special Food Services,Not Adj,2019,74400
+2020,Feb,California,70722400,Drinking Places (Alcoholic Beverages),Not Adj,2019,35400
+2020,Feb,California,70722511,Full-Service Restaurants,Not Adj,2019,647500
+2020,Feb,California,70722590,Limited-Service Eating Places,Not Adj,2019,709400
+2020,Feb,California,80000000,Other Services,Not Adj,2019,576200
+2020,Feb,California,80811000,Repair and Maintenance,Not Adj,2019,158700
+2020,Feb,California,80811100,Auto Repair & Maintenance,Not Adj,2019,120400
+2020,Feb,California,80811300,Commercial & Industrial Machinery,Not Adj,2019,18500
+2020,Feb,California,80811400,Personal & Household Goods Repair,Not Adj,2019,8900
+2020,Feb,California,80812000,Personal and Laundry Services,Not Adj,2019,184600
+2020,Feb,California,80812100,Personal Care Serv.,Not Adj,2019,87700
+2020,Feb,California,80812300,Drycleaning & Laundry Serv.,Not Adj,2019,34600
+2020,Feb,California,80812900,Other Personal Services,Not Adj,2019,52100
+2020,Feb,California,80813000,"Religious, Grantmaking, Civic, Professio",Not Adj,2019,232900
+2020,Feb,California,80813100,Religious Organizations,Not Adj,2019,93700
+2020,Feb,California,80813200,Grantmaking & Giving Serv.,Not Adj,2019,26400
+2020,Feb,California,80813300,Social Advocacy Organizations,Not Adj,2019,28500
+2020,Feb,California,80813400,Civic & Social Organizations,Not Adj,2019,43700
+2020,Feb,California,80813900,"Bus,Labor, Political & Other like Org.",Not Adj,2019,40600
+2020,Feb,California,90000000,Government,Not Adj,2019,2653300
+2020,Feb,California,90910000,Federal Government,Not Adj,2019,249300
+2020,Feb,California,90912991,Federal Government excluding Department of Defense,Not Adj,2019,184500
+2020,Feb,California,90919110,Department of Defense,Not Adj,2019,64800
+2020,Feb,California,90920000,State Government,Not Adj,2019,554000
+2020,Feb,California,90921611,State Government Education,Not Adj,2019,275700
+2020,Feb,California,90922000,State Government Excluding Education,Not Adj,2019,278300
+2020,Feb,California,90930000,Local Government,Not Adj,2019,1850000
+2020,Feb,California,90931150,Indian Tribes,Not Adj,2019,67100
+2020,Feb,California,90931611,Local Government Education,Not Adj,2019,1018200
+2020,Feb,California,90932000,Local Government Excluding Education,Not Adj,2019,831800
+2020,Feb,California,90939012,County,Not Adj,2019,359800
+2020,Feb,California,90939022,City,Not Adj,2019,273600
+2020,Feb,California,90939032,Special Districts,Not Adj,2019,131300
+2020,Feb,California,90940000,State and Local Government,Not Adj,2019,2404000
+2020,Mar,California,0,Total Nonfarm,Not Adj,2019,17347200
+2020,Mar,California,1000000,Total Wage and Salary,Not Adj,2019,17692500
+2020,Mar,California,5000000,Total Private,Not Adj,2019,14676600
+2020,Mar,California,6000000,Goods Producing,Not Adj,2019,2179900
+2020,Mar,California,7000000,Service Providing,Not Adj,2019,15167300
+2020,Mar,California,8000000,Private Service Providing,Not Adj,2019,12496700
+2020,Mar,California,10000000,Mining and Logging,Not Adj,2019,21900
+2020,Mar,California,10113300,Logging,Not Adj,2019,1300
+2020,Mar,California,10210000,Mining,Not Adj,2019,20600
+2020,Mar,California,10211000,Oil & Gas Extraction,Not Adj,2019,4300
+2020,Mar,California,10212000,"Mining, except Oil & Gas",Not Adj,2019,6100
+2020,Mar,California,10213000,Support Activities for Mining,Not Adj,2019,10200
+2020,Mar,California,11000000,Total Farm,Not Adj,2019,345300
+2020,Mar,California,15000000,"Natural Resources, Mining and Constructi",Not Adj,2019,880400
+2020,Mar,California,20000000,Construction,Not Adj,2019,858500
+2020,Mar,California,20236000,Construction of Buildings,Not Adj,2019,196900
+2020,Mar,California,20236100,Residential Building Construction,Not Adj,2019,115300
+2020,Mar,California,20236200,Nonresidential Building Construction,Not Adj,2019,81600
+2020,Mar,California,20237000,Heavy and Civil Engineering Construction,Not Adj,2019,90900
+2020,Mar,California,20237100,Utility System Const.,Not Adj,2019,49100
+2020,Mar,California,20237200,L& Subdivision,Not Adj,2019,6900
+2020,Mar,California,20237300,"Highway, Street, and Bridge Const",Not Adj,2019,24500
+2020,Mar,California,20237900,Other Heavy & Civil Engineer,Not Adj,2019,10400
+2020,Mar,California,20238000,Specialty Trade Contractors,Not Adj,2019,570700
+2020,Mar,California,20238100,Building Foundation and Exterior Contrac,Not Adj,2019,124600
+2020,Mar,California,20238200,Building Equipment Contractors,Not Adj,2019,244200
+2020,Mar,California,20238300,Building Finishing Contractors,Not Adj,2019,140000
+2020,Mar,California,20238900,Other Specialty Trade Contract,Not Adj,2019,61900
+2020,Mar,California,30000000,Manufacturing,Not Adj,2019,1299500
+2020,Mar,California,31000000,Durable Goods,Not Adj,2019,848700
+2020,Mar,California,31321000,Wood Product Manufacturing,Not Adj,2019,25300
+2020,Mar,California,31321900,Other Wood Product Mfg.,Not Adj,2019,18200
+2020,Mar,California,31327000,Nonmetallic Mineral Product Mfg.,Not Adj,2019,32200
+2020,Mar,California,31331000,Primary Metal Manufacturing,Not Adj,2019,16500
+2020,Mar,California,31332000,Fabricated Metal Product Mfg,Not Adj,2019,129900
+2020,Mar,California,31332300,Architectural & Structural Metals Mfg.,Not Adj,2019,32900
+2020,Mar,California,31332700,Machine Shops & Threaded Product Mfg.,Not Adj,2019,41500
+2020,Mar,California,31332900,Other Fabricated Metal Product Mfg.,Not Adj,2019,17800
+2020,Mar,California,31333000,Machinery Manufacturing,Not Adj,2019,77900
+2020,Mar,California,31333200,Industrial Machinery Manufacturing,Not Adj,2019,21300
+2020,Mar,California,31333300,Commercial and Service Industry Manufact,Not Adj,2019,11400
+2020,Mar,California,31333500,Metalworking Machinery Mfg.,Not Adj,2019,12200
+2020,Mar,California,31333900,ResidualOther General Purpose Machinery,Not Adj,2019,15100
+2020,Mar,California,31334000,Computer and Electronic Product Manufact,Not Adj,2019,286500
+2020,Mar,California,31334100,Computer and Peripheral Equipment Manufa,Not Adj,2019,79100
+2020,Mar,California,31334111,Electronic Computer Manufacturing,Not Adj,2019,68100
+2020,Mar,California,31334200,Communications Equipment Manufacturing,Not Adj,2019,17500
+2020,Mar,California,31334400,Semiconductor and Electronic Component M,Not Adj,2019,81500
+2020,Mar,California,31334412,Bare Printed Circuit Board Manufacturing,Not Adj,2019,8100
+2020,Mar,California,31334413,Semiconductor and Related Devices Manufa,Not Adj,2019,40600
+2020,Mar,California,31334500,Electronic Instrument Manufacturing,Not Adj,2019,95200
+2020,Mar,California,31335000,Electrical Equipment and Appliance Manuf,Not Adj,2019,31900
+2020,Mar,California,31336000,Transportation Equipment Manufacturing,Not Adj,2019,131900
+2020,Mar,California,31336100,Motor Vehicle Mfg.,Not Adj,2019,17100
+2020,Mar,California,31336400,Aerospace Product and Parts Manufacturin,Not Adj,2019,79500
+2020,Mar,California,31336600,Ship and Boat Building,Not Adj,2019,9400
+2020,Mar,California,31337000,Furniture and Related Product Manufactur,Not Adj,2019,31100
+2020,Mar,California,31337100,Household and Institutional Furniture Ma,Not Adj,2019,18400
+2020,Mar,California,31339000,Miscellaneous Durable Goods Manufacturing,Not Adj,2019,85500
+2020,Mar,California,31339100,Medical Equipment & Supplies Mfg.,Not Adj,2019,56000
+2020,Mar,California,31339900,Other Miscellaneous Durable Goods Mfg.,Not Adj,2019,29500
+2020,Mar,California,32000000,Nondurable Goods,Not Adj,2019,450800
+2020,Mar,California,32311000,Food Manufacturing,Not Adj,2019,154100
+2020,Mar,California,32311400,Fruit & Vegetable Preserving & Specialty,Not Adj,2019,22500
+2020,Mar,California,32311500,Dairy Product Manufacturing,Not Adj,2019,16900
+2020,Mar,California,32311600,Animal Slaughtering and Processing,Not Adj,2019,21700
+2020,Mar,California,32311800,Bakeries and Tortilla Manufacturing,Not Adj,2019,41400
+2020,Mar,California,32311900,Other Food Mfg.,Not Adj,2019,34800
+2020,Mar,California,32312000,Beverage and Tobacco Product Mfg,Not Adj,2019,61400
+2020,Mar,California,32313000,ResidualTextile Mills,Not Adj,2019,5300
+2020,Mar,California,32314000,Textile Product Mills,Not Adj,2019,8600
+2020,Mar,California,32315000,Apparel Manufacturing,Not Adj,2019,29500
+2020,Mar,California,32315100,Apparel Knitting Mills,Not Adj,2019,800
+2020,Mar,California,32315200,Cut and Sew Apparel Manufacturing,Not Adj,2019,28300
+2020,Mar,California,32322000,Paper Manufacturing,Not Adj,2019,20800
+2020,Mar,California,32322200,Converted Paper Product Mfg.,Not Adj,2019,19800
+2020,Mar,California,32323000,Printing and Related Support Activities,Not Adj,2019,34900
+2020,Mar,California,32324000,Petroleum and Coal Products Manufacturin,Not Adj,2019,12400
+2020,Mar,California,32325000,Chemical Manufacturing,Not Adj,2019,79300
+2020,Mar,California,32325400,Pharmaceutical and Medicine Manufacturin,Not Adj,2019,46200
+2020,Mar,California,32325600,"Soap, Cleaning Compound & Toiletry Mfg.",Not Adj,2019,12400
+2020,Mar,California,32326000,Plastics and Rubber Products Manufacturi,Not Adj,2019,41700
+2020,Mar,California,40000000,"Trade, Transportation and Utilities",Not Adj,2019,3019200
+2020,Mar,California,41000000,Wholesale Trade,Not Adj,2019,688900
+2020,Mar,California,41423000,"Merchant Wholesalers, Durable Goods",Not Adj,2019,352600
+2020,Mar,California,41423100,Motor Vehicle and Motor Vehicle Parts Me,Not Adj,2019,40500
+2020,Mar,California,41423200,Furniture & Home Furnish Merch whole,Not Adj,2019,21400
+2020,Mar,California,41423300,Lumber & Other Const. Mat Merch whole,Not Adj,2019,24100
+2020,Mar,California,41423400,Professional and Commercial Equipment Me,Not Adj,2019,80300
+2020,Mar,California,41423600,Electrical and Electronic Goods Merchant,Not Adj,2019,47800
+2020,Mar,California,41423700,"Hdwr, Plumb & Heating Merchant whole",Not Adj,2019,29900
+2020,Mar,California,41423800,"Machinery, Equipment and Supplies Mercha",Not Adj,2019,54800
+2020,Mar,California,41424000,"Merchant Wholesalers, Nondurable Goods",Not Adj,2019,293200
+2020,Mar,California,41424100,Paper & Paper Products Merchant whole,Not Adj,2019,14200
+2020,Mar,California,41424300,"Apparel, Piece Gds & Notions Merch whole",Not Adj,2019,39300
+2020,Mar,California,41424400,Grocery & Related Products Merchant whol,Not Adj,2019,111200
+2020,Mar,California,41424600,Chemical & Allied Products Merchant whol,Not Adj,2019,14700
+2020,Mar,California,41424900,Misc Nondurable Merchant Wholesalers,Not Adj,2019,51000
+2020,Mar,California,41425000,Wholesale Electronic Markets and Agents,Not Adj,2019,43100
+2020,Mar,California,42000000,Retail Trade,Not Adj,2019,1623800
+2020,Mar,California,42441000,Motor Vehicle and Parts Dealer,Not Adj,2019,192900
+2020,Mar,California,42441100,Automobile Dealers,Not Adj,2019,128100
+2020,Mar,California,42441200,Other Motor Vehicle Dealers,Not Adj,2019,12500
+2020,Mar,California,42441300,"Automotive Parts, Accessories and Tire S",Not Adj,2019,52300
+2020,Mar,California,42442000,Furniture and Home Furnishings Stores,Not Adj,2019,52500
+2020,Mar,California,42442100,Furniture Stores,Not Adj,2019,21900
+2020,Mar,California,42442200,Home Furnishings Stores,Not Adj,2019,30600
+2020,Mar,California,42443000,Electronics and Appliance Stores,Not Adj,2019,56400
+2020,Mar,California,42444000,Building Material and Garden Equipment S,Not Adj,2019,122000
+2020,Mar,California,42444100,Building Material and Supplies Dealers,Not Adj,2019,111100
+2020,Mar,California,42445000,Food and Beverage Stores,Not Adj,2019,356200
+2020,Mar,California,42445100,Grocery Stores,Not Adj,2019,312800
+2020,Mar,California,42445200,Specialty Food Stores,Not Adj,2019,26100
+2020,Mar,California,42445300,"Beer, Wine, & Liquor Stores",Not Adj,2019,17300
+2020,Mar,California,42446000,Health and Personal Care Stores,Not Adj,2019,111900
+2020,Mar,California,42447000,Gasoline Stations,Not Adj,2019,61000
+2020,Mar,California,42448000,Clothing and Clothing Accessories Stores,Not Adj,2019,180100
+2020,Mar,California,42448100,Clothing Stores,Not Adj,2019,138900
+2020,Mar,California,42448300,"Jewelry, Luggage & Leather Gds Stores",Not Adj,2019,14800
+2020,Mar,California,42451000,"Sporting Goods, Hobby, Book and Music St",Not Adj,2019,58700
+2020,Mar,California,42451100,"Sporting Goods, Hobby and Musical Instru",Not Adj,2019,49800
+2020,Mar,California,42451200,"Book, Periodical and Music Stores",Not Adj,2019,8900
+2020,Mar,California,42452000,General Merchandise Stores,Not Adj,2019,281600
+2020,Mar,California,42452200,Department Stores,Not Adj,2019,100100
+2020,Mar,California,42452300,"General Merchandise Stores, including Warehouse Clubs and Supercenters",Not Adj,2019,181500
+2020,Mar,California,42453000,Miscellaneous Store Retailers,Not Adj,2019,87100
+2020,Mar,California,42453200,"Office Supplies, Stationery & Gift Store",Not Adj,2019,26700
+2020,Mar,California,42453300,Used Merch&ise Stores,Not Adj,2019,18500
+2020,Mar,California,42453900,Other Miscellaneous Store Retailers,Not Adj,2019,38000
+2020,Mar,California,42454000,Nonstore Retailers,Not Adj,2019,63400
+2020,Mar,California,42454100,Electronic Shopping & Mail-Order,Not Adj,2019,52500
+2020,Mar,California,43000000,"Transportation, Warehousing and Utilitie",Not Adj,2019,706500
+2020,Mar,California,43220000,Utilities,Not Adj,2019,56900
+2020,Mar,California,43221100,"Electric Power Gen, Trans & Distribution",Not Adj,2019,18500
+2020,Mar,California,43221200,Natural Gas Distribution,Not Adj,2019,33100
+2020,Mar,California,43400089,Transportation and Warehousing,Not Adj,2019,649600
+2020,Mar,California,43481000,Air Transportation,Not Adj,2019,59600
+2020,Mar,California,43481100,Scheduled Air transp.,Not Adj,2019,53900
+2020,Mar,California,43484000,Truck Transportation,Not Adj,2019,132400
+2020,Mar,California,43484100,General Freight Trucking,Not Adj,2019,92000
+2020,Mar,California,43484200,Specialized Freight Trucking,Not Adj,2019,40400
+2020,Mar,California,43485000,Transit and Ground Passenger Transportat,Not Adj,2019,53900
+2020,Mar,California,43488000,Support Activities for Transportation,Not Adj,2019,111500
+2020,Mar,California,43488300,Support Activities for Water transp.,Not Adj,2019,23300
+2020,Mar,California,43488400,Support Activities for Road transp.,Not Adj,2019,15200
+2020,Mar,California,43488500,Freight transp. Arrangement,Not Adj,2019,33100
+2020,Mar,California,43492000,Couriers and Messengers,Not Adj,2019,101700
+2020,Mar,California,43493000,Warehousing and Storage,Not Adj,2019,167500
+2020,Mar,California,50000000,Information,Not Adj,2019,586500
+2020,Mar,California,50511000,Publishing Industries (except Internet),Not Adj,2019,121200
+2020,Mar,California,50511100,"Newspaper, Periodical, Book and Director",Not Adj,2019,23400
+2020,Mar,California,50511200,Software Publishers,Not Adj,2019,97800
+2020,Mar,California,50512000,Motion Picture and Sound Recording,Not Adj,2019,170900
+2020,Mar,California,50512100,Motion Picture & Video Industries,Not Adj,2019,166600
+2020,Mar,California,50512110,Motion Picture & Video Production,Not Adj,2019,132400
+2020,Mar,California,50515000,Broadcasting (except Internet),Not Adj,2019,43700
+2020,Mar,California,50515100,Radio and Television Broadcasting,Not Adj,2019,29200
+2020,Mar,California,50515200,Cable and Other Subscription Programming,Not Adj,2019,14500
+2020,Mar,California,50517000,Telecommunications,Not Adj,2019,66100
+2020,Mar,California,50517311,Wired Telecommunications Carriers,Not Adj,2019,44500
+2020,Mar,California,50518000,"Data Processing, Hosting & Related Services",Not Adj,2019,55300
+2020,Mar,California,50519000,Other Information Serv.,Not Adj,2019,129300
+2020,Mar,California,55000000,Financial Activities,Not Adj,2019,850200
+2020,Mar,California,55520000,Finance and Insurance,Not Adj,2019,545800
+2020,Mar,California,55522000,Credit Intermediation and Related Activi,Not Adj,2019,244800
+2020,Mar,California,55522100,Depository Credit Intermediation,Not Adj,2019,142200
+2020,Mar,California,55522200,Nondepository Credit Intermediation,Not Adj,2019,58800
+2020,Mar,California,55522300,Activities Related to Credit Intermediat,Not Adj,2019,43800
+2020,Mar,California,55523000,"Securities, Commodity Contracts and Inve",Not Adj,2019,98700
+2020,Mar,California,55523100,Securities & Commodity Contracts,Not Adj,2019,32900
+2020,Mar,California,55523900,Other Financial Investment Activities,Not Adj,2019,65600
+2020,Mar,California,55524000,Insurance Carriers and Related,Not Adj,2019,202300
+2020,Mar,California,55524100,Insurance Carriers,Not Adj,2019,81500
+2020,Mar,California,55524200,"Agencies, Brokerages, and Other Insuranc",Not Adj,2019,120800
+2020,Mar,California,55530000,Real Estate and Rental and Leasing,Not Adj,2019,304400
+2020,Mar,California,55531000,Real Estate,Not Adj,2019,236000
+2020,Mar,California,55531100,Lessors of Real Estate,Not Adj,2019,67900
+2020,Mar,California,55531200,Offices of Real Estate Agents and Broker,Not Adj,2019,54300
+2020,Mar,California,55531300,Activities Related to Real Estate,Not Adj,2019,113800
+2020,Mar,California,55532000,Rental and Leasing Services,Not Adj,2019,66200
+2020,Mar,California,55532100,Automotive Equipment Rental and Leasing,Not Adj,2019,25800
+2020,Mar,California,55532200,Consumer Goods Rental,Not Adj,2019,15200
+2020,Mar,California,55532300,General Rental Centers,Not Adj,2019,2800
+2020,Mar,California,55532400,Comm & Industrial Mach Rental & Leasing,Not Adj,2019,22400
+2020,Mar,California,60000000,Professional and Business Services,Not Adj,2019,2705200
+2020,Mar,California,60540000,"Professional, Scientific and Technical S",Not Adj,2019,1348500
+2020,Mar,California,60541100,Legal Services,Not Adj,2019,140400
+2020,Mar,California,60541200,"Accounting, Tax Preparation and Bookkeep",Not Adj,2019,141300
+2020,Mar,California,60541300,"Architectural, Engineering and Related S",Not Adj,2019,186200
+2020,Mar,California,60541400,Specialized Design Services,Not Adj,2019,24600
+2020,Mar,California,60541500,Computer Systems Design and Related Serv,Not Adj,2019,350700
+2020,Mar,California,60541600,"Management, Scientific and Technical Con",Not Adj,2019,209000
+2020,Mar,California,60541700,Scientific Research and Development Serv,Not Adj,2019,155600
+2020,Mar,California,60541800,Advertising and Related Services,Not Adj,2019,64200
+2020,Mar,California,60541900,"Other Professional, Scientific and Techn",Not Adj,2019,76500
+2020,Mar,California,60550000,Management of Companies and Enterprises,Not Adj,2019,252500
+2020,Mar,California,60560000,Administrative and Support and Waste Ser,Not Adj,2019,1104200
+2020,Mar,California,60561000,Administrative and Support Services,Not Adj,2019,1050500
+2020,Mar,California,60561100,Office Administrative Services,Not Adj,2019,76400
+2020,Mar,California,60561200,Facilities Support Serv.,Not Adj,2019,13100
+2020,Mar,California,60561300,Employment Services,Not Adj,2019,438800
+2020,Mar,California,60561400,Business Support Services,Not Adj,2019,60900
+2020,Mar,California,60561500,Travel Arrangement and Reservation Servi,Not Adj,2019,24800
+2020,Mar,California,60561600,Investigation and Security Services,Not Adj,2019,154300
+2020,Mar,California,60561700,Services to Buildings and Dwellings,Not Adj,2019,245200
+2020,Mar,California,60561900,ResidualOther Support Services,Not Adj,2019,37000
+2020,Mar,California,60562000,Waste Management and Remediation Service,Not Adj,2019,53700
+2020,Mar,California,65000000,Educational and Health Services,Not Adj,2019,2843700
+2020,Mar,California,65610000,Educational Services,Not Adj,2019,400000
+2020,Mar,California,65611100,Elementary and Secondary Schools,Not Adj,2019,102800
+2020,Mar,California,65611200,Junior Colleges,Not Adj,2019,2700
+2020,Mar,California,65611300,"Colleges, Universities and Professional",Not Adj,2019,171400
+2020,Mar,California,65611600,Other Schools & Instruction,Not Adj,2019,75500
+2020,Mar,California,65620000,Health Care and Social Assistance,Not Adj,2019,2443700
+2020,Mar,California,65621000,Ambulatory Health Care Services,Not Adj,2019,875300
+2020,Mar,California,65621100,Offices of Physicians,Not Adj,2019,240600
+2020,Mar,California,65621200,Offices of Dentists,Not Adj,2019,131900
+2020,Mar,California,65621300,Offices of Other Health Practitioners,Not Adj,2019,106200
+2020,Mar,California,65621400,Outpatient Care Centers,Not Adj,2019,229200
+2020,Mar,California,65621500,Medical & Diagnostic Laboratories,Not Adj,2019,38500
+2020,Mar,California,65621600,Home Health Care Serv.,Not Adj,2019,98100
+2020,Mar,California,65621900,Other Ambulatory Health Care Serv.,Not Adj,2019,30800
+2020,Mar,California,65622000,Hospitals,Not Adj,2019,409600
+2020,Mar,California,65622100,General Medical & Surgical Hosp.s,Not Adj,2019,384800
+2020,Mar,California,65622200,Psychiatric & Substance Abuse Hosp,Not Adj,2019,8800
+2020,Mar,California,65622300,"Specialty (not Psych, Sub Abuse) Hosp.",Not Adj,2019,16000
+2020,Mar,California,65623000,Nursing and Residential Care Facilities,Not Adj,2019,305600
+2020,Mar,California,65623100,Nursing Care Facilities,Not Adj,2019,137600
+2020,Mar,California,65623200,"Residential Mental Retardation, Mental a",Not Adj,2019,56400
+2020,Mar,California,65623300,Comm Care Facilities for the Elderly,Not Adj,2019,99800
+2020,Mar,California,65623900,Other Residential Care Facilities,Not Adj,2019,11800
+2020,Mar,California,65624000,Social Assistance,Not Adj,2019,853200
+2020,Mar,California,65624100,Individual and Family Services,Not Adj,2019,718300
+2020,Mar,California,65624200,"Community Food & Housing, & Emergency &",Not Adj,2019,22900
+2020,Mar,California,65624300,Vocational Rehabilitation Services,Not Adj,2019,36000
+2020,Mar,California,65624400,Child Day Care Services,Not Adj,2019,76000
+2020,Mar,California,70000000,Leisure and Hospitality,Not Adj,2019,1940200
+2020,Mar,California,70710000,"Arts, Entertainment, and Recreation",Not Adj,2019,303100
+2020,Mar,California,70711000,"Performing Arts, Spectator Sports",Not Adj,2019,67400
+2020,Mar,California,70711100,Performing Arts Companies,Not Adj,2019,12800
+2020,Mar,California,70711200,Spectator Sports,Not Adj,2019,12600
+2020,Mar,California,70711500,"Independent Artists, Writers, and Perfor",Not Adj,2019,12500
+2020,Mar,California,70712000,"Museums, Historical Sites, and Similar I",Not Adj,2019,21200
+2020,Mar,California,70713000,"Amusement, Gambling, and Recreation",Not Adj,2019,214500
+2020,Mar,California,70713100,Amusement Parks and Arcades,Not Adj,2019,43000
+2020,Mar,California,70713200,Gambling Industries,Not Adj,2019,17000
+2020,Mar,California,70713900,Other Amusement and Recreation,Not Adj,2019,154500
+2020,Mar,California,70720000,Accommodation and Food Service,Not Adj,2019,1637100
+2020,Mar,California,70721000,Accommodation,Not Adj,2019,230600
+2020,Mar,California,70722000,Food Services and Drinking Places,Not Adj,2019,1406500
+2020,Mar,California,70722300,Special Food Services,Not Adj,2019,69100
+2020,Mar,California,70722400,Drinking Places (Alcoholic Beverages),Not Adj,2019,35300
+2020,Mar,California,70722511,Full-Service Restaurants,Not Adj,2019,603600
+2020,Mar,California,70722590,Limited-Service Eating Places,Not Adj,2019,698500
+2020,Mar,California,80000000,Other Services,Not Adj,2019,551700
+2020,Mar,California,80811000,Repair and Maintenance,Not Adj,2019,151600
+2020,Mar,California,80811100,Auto Repair & Maintenance,Not Adj,2019,114400
+2020,Mar,California,80811300,Commercial & Industrial Machinery,Not Adj,2019,17900
+2020,Mar,California,80811400,Personal & Household Goods Repair,Not Adj,2019,8800
+2020,Mar,California,80812000,Personal and Laundry Services,Not Adj,2019,167000
+2020,Mar,California,80812100,Personal Care Serv.,Not Adj,2019,76600
+2020,Mar,California,80812300,Drycleaning & Laundry Serv.,Not Adj,2019,32100
+2020,Mar,California,80812900,Other Personal Services,Not Adj,2019,48000
+2020,Mar,California,80813000,"Religious, Grantmaking, Civic, Professio",Not Adj,2019,233100
+2020,Mar,California,80813100,Religious Organizations,Not Adj,2019,93900
+2020,Mar,California,80813200,Grantmaking & Giving Serv.,Not Adj,2019,26500
+2020,Mar,California,80813300,Social Advocacy Organizations,Not Adj,2019,28400
+2020,Mar,California,80813400,Civic & Social Organizations,Not Adj,2019,43400
+2020,Mar,California,80813900,"Bus,Labor, Political & Other like Org.",Not Adj,2019,40900
+2020,Mar,California,90000000,Government,Not Adj,2019,2670600
+2020,Mar,California,90910000,Federal Government,Not Adj,2019,250400
+2020,Mar,California,90912991,Federal Government excluding Department of Defense,Not Adj,2019,185400
+2020,Mar,California,90919110,Department of Defense,Not Adj,2019,65000
+2020,Mar,California,90920000,State Government,Not Adj,2019,559100
+2020,Mar,California,90921611,State Government Education,Not Adj,2019,280100
+2020,Mar,California,90922000,State Government Excluding Education,Not Adj,2019,279000
+2020,Mar,California,90930000,Local Government,Not Adj,2019,1861100
+2020,Mar,California,90931150,Indian Tribes,Not Adj,2019,66800
+2020,Mar,California,90931611,Local Government Education,Not Adj,2019,1030400
+2020,Mar,California,90932000,Local Government Excluding Education,Not Adj,2019,830700
+2020,Mar,California,90939012,County,Not Adj,2019,359100
+2020,Mar,California,90939022,City,Not Adj,2019,273900
+2020,Mar,California,90939032,Special Districts,Not Adj,2019,130900
+2020,Mar,California,90940000,State and Local Government,Not Adj,2019,2420200
+2020,Apr,California,0,Total Nonfarm,Not Adj,2019,14988900
+2020,Apr,California,1000000,Total Wage and Salary,Not Adj,2019,15324300
+2020,Apr,California,5000000,Total Private,Not Adj,2019,12405900
+2020,Apr,California,6000000,Goods Producing,Not Adj,2019,1943100
+2020,Apr,California,7000000,Service Providing,Not Adj,2019,13045800
+2020,Apr,California,8000000,Private Service Providing,Not Adj,2019,10462800
+2020,Apr,California,10000000,Mining and Logging,Not Adj,2019,21200
+2020,Apr,California,10113300,Logging,Not Adj,2019,1500
+2020,Apr,California,10210000,Mining,Not Adj,2019,19700
+2020,Apr,California,10211000,Oil & Gas Extraction,Not Adj,2019,4200
+2020,Apr,California,10212000,"Mining, except Oil & Gas",Not Adj,2019,6000
+2020,Apr,California,10213000,Support Activities for Mining,Not Adj,2019,9500
+2020,Apr,California,11000000,Total Farm,Not Adj,2019,335400
+2020,Apr,California,15000000,"Natural Resources, Mining and Constructi",Not Adj,2019,765800
+2020,Apr,California,20000000,Construction,Not Adj,2019,744600
+2020,Apr,California,20236000,Construction of Buildings,Not Adj,2019,180200
+2020,Apr,California,20236100,Residential Building Construction,Not Adj,2019,104500
+2020,Apr,California,20236200,Nonresidential Building Construction,Not Adj,2019,75700
+2020,Apr,California,20237000,Heavy and Civil Engineering Construction,Not Adj,2019,84300
+2020,Apr,California,20237100,Utility System Const.,Not Adj,2019,45000
+2020,Apr,California,20237200,L& Subdivision,Not Adj,2019,6100
+2020,Apr,California,20237300,"Highway, Street, and Bridge Const",Not Adj,2019,23800
+2020,Apr,California,20237900,Other Heavy & Civil Engineer,Not Adj,2019,9400
+2020,Apr,California,20238000,Specialty Trade Contractors,Not Adj,2019,480100
+2020,Apr,California,20238100,Building Foundation and Exterior Contrac,Not Adj,2019,98500
+2020,Apr,California,20238200,Building Equipment Contractors,Not Adj,2019,211700
+2020,Apr,California,20238300,Building Finishing Contractors,Not Adj,2019,113300
+2020,Apr,California,20238900,Other Specialty Trade Contract,Not Adj,2019,56600
+2020,Apr,California,30000000,Manufacturing,Not Adj,2019,1177300
+2020,Apr,California,31000000,Durable Goods,Not Adj,2019,778300
+2020,Apr,California,31321000,Wood Product Manufacturing,Not Adj,2019,24200
+2020,Apr,California,31321900,Other Wood Product Mfg.,Not Adj,2019,17800
+2020,Apr,California,31327000,Nonmetallic Mineral Product Mfg.,Not Adj,2019,29900
+2020,Apr,California,31331000,Primary Metal Manufacturing,Not Adj,2019,15700
+2020,Apr,California,31332000,Fabricated Metal Product Mfg,Not Adj,2019,118700
+2020,Apr,California,31332300,Architectural & Structural Metals Mfg.,Not Adj,2019,29900
+2020,Apr,California,31332700,Machine Shops & Threaded Product Mfg.,Not Adj,2019,38900
+2020,Apr,California,31332900,Other Fabricated Metal Product Mfg.,Not Adj,2019,15600
+2020,Apr,California,31333000,Machinery Manufacturing,Not Adj,2019,71600
+2020,Apr,California,31333200,Industrial Machinery Manufacturing,Not Adj,2019,19000
+2020,Apr,California,31333300,Commercial and Service Industry Manufact,Not Adj,2019,10500
+2020,Apr,California,31333500,Metalworking Machinery Mfg.,Not Adj,2019,11800
+2020,Apr,California,31333900,ResidualOther General Purpose Machinery,Not Adj,2019,14000
+2020,Apr,California,31334000,Computer and Electronic Product Manufact,Not Adj,2019,277600
+2020,Apr,California,31334100,Computer and Peripheral Equipment Manufa,Not Adj,2019,77700
+2020,Apr,California,31334111,Electronic Computer Manufacturing,Not Adj,2019,67000
+2020,Apr,California,31334200,Communications Equipment Manufacturing,Not Adj,2019,17000
+2020,Apr,California,31334400,Semiconductor and Electronic Component M,Not Adj,2019,79000
+2020,Apr,California,31334412,Bare Printed Circuit Board Manufacturing,Not Adj,2019,8000
+2020,Apr,California,31334413,Semiconductor and Related Devices Manufa,Not Adj,2019,39600
+2020,Apr,California,31334500,Electronic Instrument Manufacturing,Not Adj,2019,92800
+2020,Apr,California,31335000,Electrical Equipment and Appliance Manuf,Not Adj,2019,30600
+2020,Apr,California,31336000,Transportation Equipment Manufacturing,Not Adj,2019,106200
+2020,Apr,California,31336100,Motor Vehicle Mfg.,Not Adj,2019,7700
+2020,Apr,California,31336400,Aerospace Product and Parts Manufacturin,Not Adj,2019,71600
+2020,Apr,California,31336600,Ship and Boat Building,Not Adj,2019,7000
+2020,Apr,California,31337000,Furniture and Related Product Manufactur,Not Adj,2019,25100
+2020,Apr,California,31337100,Household and Institutional Furniture Ma,Not Adj,2019,14900
+2020,Apr,California,31339000,Miscellaneous Durable Goods Manufacturing,Not Adj,2019,78700
+2020,Apr,California,31339100,Medical Equipment & Supplies Mfg.,Not Adj,2019,54300
+2020,Apr,California,31339900,Other Miscellaneous Durable Goods Mfg.,Not Adj,2019,24400
+2020,Apr,California,32000000,Nondurable Goods,Not Adj,2019,399000
+2020,Apr,California,32311000,Food Manufacturing,Not Adj,2019,144700
+2020,Apr,California,32311400,Fruit & Vegetable Preserving & Specialty,Not Adj,2019,21800
+2020,Apr,California,32311500,Dairy Product Manufacturing,Not Adj,2019,16100
+2020,Apr,California,32311600,Animal Slaughtering and Processing,Not Adj,2019,20300
+2020,Apr,California,32311800,Bakeries and Tortilla Manufacturing,Not Adj,2019,38800
+2020,Apr,California,32311900,Other Food Mfg.,Not Adj,2019,31900
+2020,Apr,California,32312000,Beverage and Tobacco Product Mfg,Not Adj,2019,50800
+2020,Apr,California,32313000,ResidualTextile Mills,Not Adj,2019,4200
+2020,Apr,California,32314000,Textile Product Mills,Not Adj,2019,7800
+2020,Apr,California,32315000,Apparel Manufacturing,Not Adj,2019,13800
+2020,Apr,California,32315100,Apparel Knitting Mills,Not Adj,2019,400
+2020,Apr,California,32315200,Cut and Sew Apparel Manufacturing,Not Adj,2019,13200
+2020,Apr,California,32322000,Paper Manufacturing,Not Adj,2019,18900
+2020,Apr,California,32322200,Converted Paper Product Mfg.,Not Adj,2019,18200
+2020,Apr,California,32323000,Printing and Related Support Activities,Not Adj,2019,28000
+2020,Apr,California,32324000,Petroleum and Coal Products Manufacturin,Not Adj,2019,12400
+2020,Apr,California,32325000,Chemical Manufacturing,Not Adj,2019,76900
+2020,Apr,California,32325400,Pharmaceutical and Medicine Manufacturin,Not Adj,2019,45800
+2020,Apr,California,32325600,"Soap, Cleaning Compound & Toiletry Mfg.",Not Adj,2019,12400
+2020,Apr,California,32326000,Plastics and Rubber Products Manufacturi,Not Adj,2019,39300
+2020,Apr,California,40000000,"Trade, Transportation and Utilities",Not Adj,2019,2625700
+2020,Apr,California,41000000,Wholesale Trade,Not Adj,2019,623700
+2020,Apr,California,41423000,"Merchant Wholesalers, Durable Goods",Not Adj,2019,321900
+2020,Apr,California,41423100,Motor Vehicle and Motor Vehicle Parts Me,Not Adj,2019,37300
+2020,Apr,California,41423200,Furniture & Home Furnish Merch whole,Not Adj,2019,19700
+2020,Apr,California,41423300,Lumber & Other Const. Mat Merch whole,Not Adj,2019,22400
+2020,Apr,California,41423400,Professional and Commercial Equipment Me,Not Adj,2019,72900
+2020,Apr,California,41423600,Electrical and Electronic Goods Merchant,Not Adj,2019,46300
+2020,Apr,California,41423700,"Hdwr, Plumb & Heating Merchant whole",Not Adj,2019,27300
+2020,Apr,California,41423800,"Machinery, Equipment and Supplies Mercha",Not Adj,2019,47700
+2020,Apr,California,41424000,"Merchant Wholesalers, Nondurable Goods",Not Adj,2019,264400
+2020,Apr,California,41424100,Paper & Paper Products Merchant whole,Not Adj,2019,13800
+2020,Apr,California,41424300,"Apparel, Piece Gds & Notions Merch whole",Not Adj,2019,21200
+2020,Apr,California,41424400,Grocery & Related Products Merchant whol,Not Adj,2019,106800
+2020,Apr,California,41424600,Chemical & Allied Products Merchant whol,Not Adj,2019,14700
+2020,Apr,California,41424900,Misc Nondurable Merchant Wholesalers,Not Adj,2019,48000
+2020,Apr,California,41425000,Wholesale Electronic Markets and Agents,Not Adj,2019,37400
+2020,Apr,California,42000000,Retail Trade,Not Adj,2019,1353800
+2020,Apr,California,42441000,Motor Vehicle and Parts Dealer,Not Adj,2019,150000
+2020,Apr,California,42441100,Automobile Dealers,Not Adj,2019,96300
+2020,Apr,California,42441200,Other Motor Vehicle Dealers,Not Adj,2019,8100
+2020,Apr,California,42441300,"Automotive Parts, Accessories and Tire S",Not Adj,2019,45600
+2020,Apr,California,42442000,Furniture and Home Furnishings Stores,Not Adj,2019,25700
+2020,Apr,California,42442100,Furniture Stores,Not Adj,2019,11300
+2020,Apr,California,42442200,Home Furnishings Stores,Not Adj,2019,14400
+2020,Apr,California,42443000,Electronics and Appliance Stores,Not Adj,2019,51100
+2020,Apr,California,42444000,Building Material and Garden Equipment S,Not Adj,2019,122800
+2020,Apr,California,42444100,Building Material and Supplies Dealers,Not Adj,2019,112200
+2020,Apr,California,42445000,Food and Beverage Stores,Not Adj,2019,358800
+2020,Apr,California,42445100,Grocery Stores,Not Adj,2019,322900
+2020,Apr,California,42445200,Specialty Food Stores,Not Adj,2019,22400
+2020,Apr,California,42445300,"Beer, Wine, & Liquor Stores",Not Adj,2019,13500
+2020,Apr,California,42446000,Health and Personal Care Stores,Not Adj,2019,103500
+2020,Apr,California,42447000,Gasoline Stations,Not Adj,2019,57000
+2020,Apr,California,42448000,Clothing and Clothing Accessories Stores,Not Adj,2019,76500
+2020,Apr,California,42448100,Clothing Stores,Not Adj,2019,46300
+2020,Apr,California,42448300,"Jewelry, Luggage & Leather Gds Stores",Not Adj,2019,10100
+2020,Apr,California,42451000,"Sporting Goods, Hobby, Book and Music St",Not Adj,2019,47400
+2020,Apr,California,42451100,"Sporting Goods, Hobby and Musical Instru",Not Adj,2019,39200
+2020,Apr,California,42451200,"Book, Periodical and Music Stores",Not Adj,2019,8200
+2020,Apr,California,42452000,General Merchandise Stores,Not Adj,2019,245500
+2020,Apr,California,42452200,Department Stores,Not Adj,2019,61800
+2020,Apr,California,42452300,"General Merchandise Stores, including Warehouse Clubs and Supercenters",Not Adj,2019,183700
+2020,Apr,California,42453000,Miscellaneous Store Retailers,Not Adj,2019,60400
+2020,Apr,California,42453200,"Office Supplies, Stationery & Gift Store",Not Adj,2019,20100
+2020,Apr,California,42453300,Used Merch&ise Stores,Not Adj,2019,11700
+2020,Apr,California,42453900,Other Miscellaneous Store Retailers,Not Adj,2019,25800
+2020,Apr,California,42454000,Nonstore Retailers,Not Adj,2019,55100
+2020,Apr,California,42454100,Electronic Shopping & Mail-Order,Not Adj,2019,45600
+2020,Apr,California,43000000,"Transportation, Warehousing and Utilitie",Not Adj,2019,648200
+2020,Apr,California,43220000,Utilities,Not Adj,2019,57000
+2020,Apr,California,43221100,"Electric Power Gen, Trans & Distribution",Not Adj,2019,18500
+2020,Apr,California,43221200,Natural Gas Distribution,Not Adj,2019,32900
+2020,Apr,California,43400089,Transportation and Warehousing,Not Adj,2019,591200
+2020,Apr,California,43481000,Air Transportation,Not Adj,2019,57100
+2020,Apr,California,43481100,Scheduled Air transp.,Not Adj,2019,51600
+2020,Apr,California,43484000,Truck Transportation,Not Adj,2019,116600
+2020,Apr,California,43484100,General Freight Trucking,Not Adj,2019,82300
+2020,Apr,California,43484200,Specialized Freight Trucking,Not Adj,2019,34300
+2020,Apr,California,43485000,Transit and Ground Passenger Transportat,Not Adj,2019,52000
+2020,Apr,California,43488000,Support Activities for Transportation,Not Adj,2019,97600
+2020,Apr,California,43488300,Support Activities for Water transp.,Not Adj,2019,20700
+2020,Apr,California,43488400,Support Activities for Road transp.,Not Adj,2019,12100
+2020,Apr,California,43488500,Freight transp. Arrangement,Not Adj,2019,29300
+2020,Apr,California,43492000,Couriers and Messengers,Not Adj,2019,97800
+2020,Apr,California,43493000,Warehousing and Storage,Not Adj,2019,152300
+2020,Apr,California,50000000,Information,Not Adj,2019,512600
+2020,Apr,California,50511000,Publishing Industries (except Internet),Not Adj,2019,119400
+2020,Apr,California,50511100,"Newspaper, Periodical, Book and Director",Not Adj,2019,22600
+2020,Apr,California,50511200,Software Publishers,Not Adj,2019,96800
+2020,Apr,California,50512000,Motion Picture and Sound Recording,Not Adj,2019,102200
+2020,Apr,California,50512100,Motion Picture & Video Industries,Not Adj,2019,99900
+2020,Apr,California,50512110,Motion Picture & Video Production,Not Adj,2019,83300
+2020,Apr,California,50515000,Broadcasting (except Internet),Not Adj,2019,42800
+2020,Apr,California,50515100,Radio and Television Broadcasting,Not Adj,2019,28400
+2020,Apr,California,50515200,Cable and Other Subscription Programming,Not Adj,2019,14400
+2020,Apr,California,50517000,Telecommunications,Not Adj,2019,64100
+2020,Apr,California,50517311,Wired Telecommunications Carriers,Not Adj,2019,43500
+2020,Apr,California,50518000,"Data Processing, Hosting & Related Services",Not Adj,2019,55400
+2020,Apr,California,50519000,Other Information Serv.,Not Adj,2019,128700
+2020,Apr,California,55000000,Financial Activities,Not Adj,2019,823200
+2020,Apr,California,55520000,Finance and Insurance,Not Adj,2019,541200
+2020,Apr,California,55522000,Credit Intermediation and Related Activi,Not Adj,2019,241300
+2020,Apr,California,55522100,Depository Credit Intermediation,Not Adj,2019,142400
+2020,Apr,California,55522200,Nondepository Credit Intermediation,Not Adj,2019,55500
+2020,Apr,California,55522300,Activities Related to Credit Intermediat,Not Adj,2019,43400
+2020,Apr,California,55523000,"Securities, Commodity Contracts and Inve",Not Adj,2019,98800
+2020,Apr,California,55523100,Securities & Commodity Contracts,Not Adj,2019,33100
+2020,Apr,California,55523900,Other Financial Investment Activities,Not Adj,2019,65700
+2020,Apr,California,55524000,Insurance Carriers and Related,Not Adj,2019,201100
+2020,Apr,California,55524100,Insurance Carriers,Not Adj,2019,81200
+2020,Apr,California,55524200,"Agencies, Brokerages, and Other Insuranc",Not Adj,2019,119900
+2020,Apr,California,55530000,Real Estate and Rental and Leasing,Not Adj,2019,282000
+2020,Apr,California,55531000,Real Estate,Not Adj,2019,226100
+2020,Apr,California,55531100,Lessors of Real Estate,Not Adj,2019,62600
+2020,Apr,California,55531200,Offices of Real Estate Agents and Broker,Not Adj,2019,52400
+2020,Apr,California,55531300,Activities Related to Real Estate,Not Adj,2019,111100
+2020,Apr,California,55532000,Rental and Leasing Services,Not Adj,2019,53800
+2020,Apr,California,55532100,Automotive Equipment Rental and Leasing,Not Adj,2019,18400
+2020,Apr,California,55532200,Consumer Goods Rental,Not Adj,2019,12300
+2020,Apr,California,55532300,General Rental Centers,Not Adj,2019,2600
+2020,Apr,California,55532400,Comm & Industrial Mach Rental & Leasing,Not Adj,2019,20500
+2020,Apr,California,60000000,Professional and Business Services,Not Adj,2019,2474000
+2020,Apr,California,60540000,"Professional, Scientific and Technical S",Not Adj,2019,1268000
+2020,Apr,California,60541100,Legal Services,Not Adj,2019,132100
+2020,Apr,California,60541200,"Accounting, Tax Preparation and Bookkeep",Not Adj,2019,123400
+2020,Apr,California,60541300,"Architectural, Engineering and Related S",Not Adj,2019,177600
+2020,Apr,California,60541400,Specialized Design Services,Not Adj,2019,19300
+2020,Apr,California,60541500,Computer Systems Design and Related Serv,Not Adj,2019,344200
+2020,Apr,California,60541600,"Management, Scientific and Technical Con",Not Adj,2019,195600
+2020,Apr,California,60541700,Scientific Research and Development Serv,Not Adj,2019,152500
+2020,Apr,California,60541800,Advertising and Related Services,Not Adj,2019,56200
+2020,Apr,California,60541900,"Other Professional, Scientific and Techn",Not Adj,2019,67100
+2020,Apr,California,60550000,Management of Companies and Enterprises,Not Adj,2019,238700
+2020,Apr,California,60560000,Administrative and Support and Waste Ser,Not Adj,2019,967300
+2020,Apr,California,60561000,Administrative and Support Services,Not Adj,2019,914300
+2020,Apr,California,60561100,Office Administrative Services,Not Adj,2019,69100
+2020,Apr,California,60561200,Facilities Support Serv.,Not Adj,2019,13000
+2020,Apr,California,60561300,Employment Services,Not Adj,2019,359600
+2020,Apr,California,60561400,Business Support Services,Not Adj,2019,53500
+2020,Apr,California,60561500,Travel Arrangement and Reservation Servi,Not Adj,2019,23800
+2020,Apr,California,60561600,Investigation and Security Services,Not Adj,2019,145800
+2020,Apr,California,60561700,Services to Buildings and Dwellings,Not Adj,2019,220100
+2020,Apr,California,60561900,ResidualOther Support Services,Not Adj,2019,29400
+2020,Apr,California,60562000,Waste Management and Remediation Service,Not Adj,2019,53000
+2020,Apr,California,65000000,Educational and Health Services,Not Adj,2019,2540400
+2020,Apr,California,65610000,Educational Services,Not Adj,2019,365000
+2020,Apr,California,65611100,Elementary and Secondary Schools,Not Adj,2019,97300
+2020,Apr,California,65611200,Junior Colleges,Not Adj,2019,1900
+2020,Apr,California,65611300,"Colleges, Universities and Professional",Not Adj,2019,164800
+2020,Apr,California,65611600,Other Schools & Instruction,Not Adj,2019,57600
+2020,Apr,California,65620000,Health Care and Social Assistance,Not Adj,2019,2175400
+2020,Apr,California,65621000,Ambulatory Health Care Services,Not Adj,2019,727400
+2020,Apr,California,65621100,Offices of Physicians,Not Adj,2019,219400
+2020,Apr,California,65621200,Offices of Dentists,Not Adj,2019,53600
+2020,Apr,California,65621300,Offices of Other Health Practitioners,Not Adj,2019,79700
+2020,Apr,California,65621400,Outpatient Care Centers,Not Adj,2019,214900
+2020,Apr,California,65621500,Medical & Diagnostic Laboratories,Not Adj,2019,37500
+2020,Apr,California,65621600,Home Health Care Serv.,Not Adj,2019,92900
+2020,Apr,California,65621900,Other Ambulatory Health Care Serv.,Not Adj,2019,29400
+2020,Apr,California,65622000,Hospitals,Not Adj,2019,399400
+2020,Apr,California,65622100,General Medical & Surgical Hosp.s,Not Adj,2019,375100
+2020,Apr,California,65622200,Psychiatric & Substance Abuse Hosp,Not Adj,2019,8500
+2020,Apr,California,65622300,"Specialty (not Psych, Sub Abuse) Hosp.",Not Adj,2019,15800
+2020,Apr,California,65623000,Nursing and Residential Care Facilities,Not Adj,2019,296200
+2020,Apr,California,65623100,Nursing Care Facilities,Not Adj,2019,132700
+2020,Apr,California,65623200,"Residential Mental Retardation, Mental a",Not Adj,2019,54500
+2020,Apr,California,65623300,Comm Care Facilities for the Elderly,Not Adj,2019,97400
+2020,Apr,California,65623900,Other Residential Care Facilities,Not Adj,2019,11600
+2020,Apr,California,65624000,Social Assistance,Not Adj,2019,752400
+2020,Apr,California,65624100,Individual and Family Services,Not Adj,2019,660200
+2020,Apr,California,65624200,"Community Food & Housing, & Emergency &",Not Adj,2019,22400
+2020,Apr,California,65624300,Vocational Rehabilitation Services,Not Adj,2019,25900
+2020,Apr,California,65624400,Child Day Care Services,Not Adj,2019,43900
+2020,Apr,California,70000000,Leisure and Hospitality,Not Adj,2019,1077000
+2020,Apr,California,70710000,"Arts, Entertainment, and Recreation",Not Adj,2019,176900
+2020,Apr,California,70711000,"Performing Arts, Spectator Sports",Not Adj,2019,49200
+2020,Apr,California,70711100,Performing Arts Companies,Not Adj,2019,8700
+2020,Apr,California,70711200,Spectator Sports,Not Adj,2019,8600
+2020,Apr,California,70711500,"Independent Artists, Writers, and Perfor",Not Adj,2019,10700
+2020,Apr,California,70712000,"Museums, Historical Sites, and Similar I",Not Adj,2019,16800
+2020,Apr,California,70713000,"Amusement, Gambling, and Recreation",Not Adj,2019,110900
+2020,Apr,California,70713100,Amusement Parks and Arcades,Not Adj,2019,33800
+2020,Apr,California,70713200,Gambling Industries,Not Adj,2019,13200
+2020,Apr,California,70713900,Other Amusement and Recreation,Not Adj,2019,63900
+2020,Apr,California,70720000,Accommodation and Food Service,Not Adj,2019,900100
+2020,Apr,California,70721000,Accommodation,Not Adj,2019,128500
+2020,Apr,California,70722000,Food Services and Drinking Places,Not Adj,2019,771600
+2020,Apr,California,70722300,Special Food Services,Not Adj,2019,37700
+2020,Apr,California,70722400,Drinking Places (Alcoholic Beverages),Not Adj,2019,6400
+2020,Apr,California,70722511,Full-Service Restaurants,Not Adj,2019,209600
+2020,Apr,California,70722590,Limited-Service Eating Places,Not Adj,2019,517900
+2020,Apr,California,80000000,Other Services,Not Adj,2019,409900
+2020,Apr,California,80811000,Repair and Maintenance,Not Adj,2019,124300
+2020,Apr,California,80811100,Auto Repair & Maintenance,Not Adj,2019,91400
+2020,Apr,California,80811300,Commercial & Industrial Machinery,Not Adj,2019,16500
+2020,Apr,California,80811400,Personal & Household Goods Repair,Not Adj,2019,7700
+2020,Apr,California,80812000,Personal and Laundry Services,Not Adj,2019,80800
+2020,Apr,California,80812100,Personal Care Serv.,Not Adj,2019,16200
+2020,Apr,California,80812300,Drycleaning & Laundry Serv.,Not Adj,2019,29700
+2020,Apr,California,80812900,Other Personal Services,Not Adj,2019,25100
+2020,Apr,California,80813000,"Religious, Grantmaking, Civic, Professio",Not Adj,2019,204800
+2020,Apr,California,80813100,Religious Organizations,Not Adj,2019,92900
+2020,Apr,California,80813200,Grantmaking & Giving Serv.,Not Adj,2019,25300
+2020,Apr,California,80813300,Social Advocacy Organizations,Not Adj,2019,27200
+2020,Apr,California,80813400,Civic & Social Organizations,Not Adj,2019,24500
+2020,Apr,California,80813900,"Bus,Labor, Political & Other like Org.",Not Adj,2019,34900
+2020,Apr,California,90000000,Government,Not Adj,2019,2583000
+2020,Apr,California,90910000,Federal Government,Not Adj,2019,252600
+2020,Apr,California,90912991,Federal Government excluding Department of Defense,Not Adj,2019,187600
+2020,Apr,California,90919110,Department of Defense,Not Adj,2019,65000
+2020,Apr,California,90920000,State Government,Not Adj,2019,548700
+2020,Apr,California,90921611,State Government Education,Not Adj,2019,268400
+2020,Apr,California,90922000,State Government Excluding Education,Not Adj,2019,280300
+2020,Apr,California,90930000,Local Government,Not Adj,2019,1781700
+2020,Apr,California,90931150,Indian Tribes,Not Adj,2019,57900
+2020,Apr,California,90931611,Local Government Education,Not Adj,2019,981600
+2020,Apr,California,90932000,Local Government Excluding Education,Not Adj,2019,800100
+2020,Apr,California,90939012,County,Not Adj,2019,355000
+2020,Apr,California,90939022,City,Not Adj,2019,261500
+2020,Apr,California,90939032,Special Districts,Not Adj,2019,125700
+2020,Apr,California,90940000,State and Local Government,Not Adj,2019,2330400
+2020,May,California,0,Total Nonfarm,Not Adj,2019,15136400
+2020,May,California,1000000,Total Wage and Salary,Not Adj,2019,15508600
+2020,May,California,5000000,Total Private,Not Adj,2019,12648600
+2020,May,California,6000000,Goods Producing,Not Adj,2019,2041100
+2020,May,California,7000000,Service Providing,Not Adj,2019,13095300
+2020,May,California,8000000,Private Service Providing,Not Adj,2019,10607500
+2020,May,California,10000000,Mining and Logging,Not Adj,2019,22700
+2020,May,California,10113300,Logging,Not Adj,2019,2100
+2020,May,California,10210000,Mining,Not Adj,2019,20600
+2020,May,California,10211000,Oil & Gas Extraction,Not Adj,2019,4300
+2020,May,California,10212000,"Mining, except Oil & Gas",Not Adj,2019,6100
+2020,May,California,10213000,Support Activities for Mining,Not Adj,2019,10200
+2020,May,California,11000000,Total Farm,Not Adj,2019,372200
+2020,May,California,15000000,"Natural Resources, Mining and Constructi",Not Adj,2019,849500
+2020,May,California,20000000,Construction,Not Adj,2019,826800
+2020,May,California,20236000,Construction of Buildings,Not Adj,2019,197700
+2020,May,California,20236100,Residential Building Construction,Not Adj,2019,117500
+2020,May,California,20236200,Nonresidential Building Construction,Not Adj,2019,80200
+2020,May,California,20237000,Heavy and Civil Engineering Construction,Not Adj,2019,92200
+2020,May,California,20237100,Utility System Const.,Not Adj,2019,49000
+2020,May,California,20237200,L& Subdivision,Not Adj,2019,6500
+2020,May,California,20237300,"Highway, Street, and Bridge Const",Not Adj,2019,26000
+2020,May,California,20237900,Other Heavy & Civil Engineer,Not Adj,2019,10700
+2020,May,California,20238000,Specialty Trade Contractors,Not Adj,2019,536900
+2020,May,California,20238100,Building Foundation and Exterior Contrac,Not Adj,2019,118100
+2020,May,California,20238200,Building Equipment Contractors,Not Adj,2019,231400
+2020,May,California,20238300,Building Finishing Contractors,Not Adj,2019,123700
+2020,May,California,20238900,Other Specialty Trade Contract,Not Adj,2019,63700
+2020,May,California,30000000,Manufacturing,Not Adj,2019,1191600
+2020,May,California,31000000,Durable Goods,Not Adj,2019,787000
+2020,May,California,31321000,Wood Product Manufacturing,Not Adj,2019,25000
+2020,May,California,31321900,Other Wood Product Mfg.,Not Adj,2019,18400
+2020,May,California,31327000,Nonmetallic Mineral Product Mfg.,Not Adj,2019,30800
+2020,May,California,31331000,Primary Metal Manufacturing,Not Adj,2019,16000
+2020,May,California,31332000,Fabricated Metal Product Mfg,Not Adj,2019,119600
+2020,May,California,31332300,Architectural & Structural Metals Mfg.,Not Adj,2019,30200
+2020,May,California,31332700,Machine Shops & Threaded Product Mfg.,Not Adj,2019,39500
+2020,May,California,31332900,Other Fabricated Metal Product Mfg.,Not Adj,2019,15500
+2020,May,California,31333000,Machinery Manufacturing,Not Adj,2019,71100
+2020,May,California,31333200,Industrial Machinery Manufacturing,Not Adj,2019,19100
+2020,May,California,31333300,Commercial and Service Industry Manufact,Not Adj,2019,9900
+2020,May,California,31333500,Metalworking Machinery Mfg.,Not Adj,2019,11800
+2020,May,California,31333900,ResidualOther General Purpose Machinery,Not Adj,2019,14000
+2020,May,California,31334000,Computer and Electronic Product Manufact,Not Adj,2019,277500
+2020,May,California,31334100,Computer and Peripheral Equipment Manufa,Not Adj,2019,77800
+2020,May,California,31334111,Electronic Computer Manufacturing,Not Adj,2019,67100
+2020,May,California,31334200,Communications Equipment Manufacturing,Not Adj,2019,16300
+2020,May,California,31334400,Semiconductor and Electronic Component M,Not Adj,2019,79500
+2020,May,California,31334412,Bare Printed Circuit Board Manufacturing,Not Adj,2019,8100
+2020,May,California,31334413,Semiconductor and Related Devices Manufa,Not Adj,2019,39400
+2020,May,California,31334500,Electronic Instrument Manufacturing,Not Adj,2019,93400
+2020,May,California,31335000,Electrical Equipment and Appliance Manuf,Not Adj,2019,31200
+2020,May,California,31336000,Transportation Equipment Manufacturing,Not Adj,2019,109800
+2020,May,California,31336100,Motor Vehicle Mfg.,Not Adj,2019,7800
+2020,May,California,31336400,Aerospace Product and Parts Manufacturin,Not Adj,2019,72500
+2020,May,California,31336600,Ship and Boat Building,Not Adj,2019,8900
+2020,May,California,31337000,Furniture and Related Product Manufactur,Not Adj,2019,27200
+2020,May,California,31337100,Household and Institutional Furniture Ma,Not Adj,2019,16200
+2020,May,California,31339000,Miscellaneous Durable Goods Manufacturing,Not Adj,2019,78800
+2020,May,California,31339100,Medical Equipment & Supplies Mfg.,Not Adj,2019,53600
+2020,May,California,31339900,Other Miscellaneous Durable Goods Mfg.,Not Adj,2019,25200
+2020,May,California,32000000,Nondurable Goods,Not Adj,2019,404600
+2020,May,California,32311000,Food Manufacturing,Not Adj,2019,146000
+2020,May,California,32311400,Fruit & Vegetable Preserving & Specialty,Not Adj,2019,23500
+2020,May,California,32311500,Dairy Product Manufacturing,Not Adj,2019,16100
+2020,May,California,32311600,Animal Slaughtering and Processing,Not Adj,2019,20300
+2020,May,California,32311800,Bakeries and Tortilla Manufacturing,Not Adj,2019,38400
+2020,May,California,32311900,Other Food Mfg.,Not Adj,2019,31900
+2020,May,California,32312000,Beverage and Tobacco Product Mfg,Not Adj,2019,52100
+2020,May,California,32313000,ResidualTextile Mills,Not Adj,2019,4800
+2020,May,California,32314000,Textile Product Mills,Not Adj,2019,8300
+2020,May,California,32315000,Apparel Manufacturing,Not Adj,2019,14700
+2020,May,California,32315100,Apparel Knitting Mills,Not Adj,2019,400
+2020,May,California,32315200,Cut and Sew Apparel Manufacturing,Not Adj,2019,13800
+2020,May,California,32322000,Paper Manufacturing,Not Adj,2019,19100
+2020,May,California,32322200,Converted Paper Product Mfg.,Not Adj,2019,18400
+2020,May,California,32323000,Printing and Related Support Activities,Not Adj,2019,28700
+2020,May,California,32324000,Petroleum and Coal Products Manufacturin,Not Adj,2019,12400
+2020,May,California,32325000,Chemical Manufacturing,Not Adj,2019,77100
+2020,May,California,32325400,Pharmaceutical and Medicine Manufacturin,Not Adj,2019,45900
+2020,May,California,32325600,"Soap, Cleaning Compound & Toiletry Mfg.",Not Adj,2019,12400
+2020,May,California,32326000,Plastics and Rubber Products Manufacturi,Not Adj,2019,39000
+2020,May,California,40000000,"Trade, Transportation and Utilities",Not Adj,2019,2654500
+2020,May,California,41000000,Wholesale Trade,Not Adj,2019,630100
+2020,May,California,41423000,"Merchant Wholesalers, Durable Goods",Not Adj,2019,320500
+2020,May,California,41423100,Motor Vehicle and Motor Vehicle Parts Me,Not Adj,2019,34300
+2020,May,California,41423200,Furniture & Home Furnish Merch whole,Not Adj,2019,20000
+2020,May,California,41423300,Lumber & Other Const. Mat Merch whole,Not Adj,2019,22500
+2020,May,California,41423400,Professional and Commercial Equipment Me,Not Adj,2019,73100
+2020,May,California,41423600,Electrical and Electronic Goods Merchant,Not Adj,2019,47400
+2020,May,California,41423700,"Hdwr, Plumb & Heating Merchant whole",Not Adj,2019,27400
+2020,May,California,41423800,"Machinery, Equipment and Supplies Mercha",Not Adj,2019,48200
+2020,May,California,41424000,"Merchant Wholesalers, Nondurable Goods",Not Adj,2019,271400
+2020,May,California,41424100,Paper & Paper Products Merchant whole,Not Adj,2019,14100
+2020,May,California,41424300,"Apparel, Piece Gds & Notions Merch whole",Not Adj,2019,25600
+2020,May,California,41424400,Grocery & Related Products Merchant whol,Not Adj,2019,108000
+2020,May,California,41424600,Chemical & Allied Products Merchant whol,Not Adj,2019,14400
+2020,May,California,41424900,Misc Nondurable Merchant Wholesalers,Not Adj,2019,48700
+2020,May,California,41425000,Wholesale Electronic Markets and Agents,Not Adj,2019,38200
+2020,May,California,42000000,Retail Trade,Not Adj,2019,1372000
+2020,May,California,42441000,Motor Vehicle and Parts Dealer,Not Adj,2019,159500
+2020,May,California,42441100,Automobile Dealers,Not Adj,2019,104200
+2020,May,California,42441200,Other Motor Vehicle Dealers,Not Adj,2019,8600
+2020,May,California,42441300,"Automotive Parts, Accessories and Tire S",Not Adj,2019,46700
+2020,May,California,42442000,Furniture and Home Furnishings Stores,Not Adj,2019,28500
+2020,May,California,42442100,Furniture Stores,Not Adj,2019,12300
+2020,May,California,42442200,Home Furnishings Stores,Not Adj,2019,16200
+2020,May,California,42443000,Electronics and Appliance Stores,Not Adj,2019,41700
+2020,May,California,42444000,Building Material and Garden Equipment S,Not Adj,2019,121600
+2020,May,California,42444100,Building Material and Supplies Dealers,Not Adj,2019,108600
+2020,May,California,42445000,Food and Beverage Stores,Not Adj,2019,361400
+2020,May,California,42445100,Grocery Stores,Not Adj,2019,325500
+2020,May,California,42445200,Specialty Food Stores,Not Adj,2019,22400
+2020,May,California,42445300,"Beer, Wine, & Liquor Stores",Not Adj,2019,13500
+2020,May,California,42446000,Health and Personal Care Stores,Not Adj,2019,101800
+2020,May,California,42447000,Gasoline Stations,Not Adj,2019,55700
+2020,May,California,42448000,Clothing and Clothing Accessories Stores,Not Adj,2019,80000
+2020,May,California,42448100,Clothing Stores,Not Adj,2019,48900
+2020,May,California,42448300,"Jewelry, Luggage & Leather Gds Stores",Not Adj,2019,10000
+2020,May,California,42451000,"Sporting Goods, Hobby, Book and Music St",Not Adj,2019,51300
+2020,May,California,42451100,"Sporting Goods, Hobby and Musical Instru",Not Adj,2019,42000
+2020,May,California,42451200,"Book, Periodical and Music Stores",Not Adj,2019,9300
+2020,May,California,42452000,General Merchandise Stores,Not Adj,2019,251800
+2020,May,California,42452200,Department Stores,Not Adj,2019,62700
+2020,May,California,42452300,"General Merchandise Stores, including Warehouse Clubs and Supercenters",Not Adj,2019,189100
+2020,May,California,42453000,Miscellaneous Store Retailers,Not Adj,2019,60500
+2020,May,California,42453200,"Office Supplies, Stationery & Gift Store",Not Adj,2019,20200
+2020,May,California,42453300,Used Merch&ise Stores,Not Adj,2019,11900
+2020,May,California,42453900,Other Miscellaneous Store Retailers,Not Adj,2019,25400
+2020,May,California,42454000,Nonstore Retailers,Not Adj,2019,58200
+2020,May,California,42454100,Electronic Shopping & Mail-Order,Not Adj,2019,48200
+2020,May,California,43000000,"Transportation, Warehousing and Utilitie",Not Adj,2019,652400
+2020,May,California,43220000,Utilities,Not Adj,2019,57000
+2020,May,California,43221100,"Electric Power Gen, Trans & Distribution",Not Adj,2019,18500
+2020,May,California,43221200,Natural Gas Distribution,Not Adj,2019,32900
+2020,May,California,43400089,Transportation and Warehousing,Not Adj,2019,595400
+2020,May,California,43481000,Air Transportation,Not Adj,2019,52900
+2020,May,California,43481100,Scheduled Air transp.,Not Adj,2019,47800
+2020,May,California,43484000,Truck Transportation,Not Adj,2019,118100
+2020,May,California,43484100,General Freight Trucking,Not Adj,2019,82300
+2020,May,California,43484200,Specialized Freight Trucking,Not Adj,2019,35800
+2020,May,California,43485000,Transit and Ground Passenger Transportat,Not Adj,2019,53700
+2020,May,California,43488000,Support Activities for Transportation,Not Adj,2019,96800
+2020,May,California,43488300,Support Activities for Water transp.,Not Adj,2019,21000
+2020,May,California,43488400,Support Activities for Road transp.,Not Adj,2019,11800
+2020,May,California,43488500,Freight transp. Arrangement,Not Adj,2019,29500
+2020,May,California,43492000,Couriers and Messengers,Not Adj,2019,101800
+2020,May,California,43493000,Warehousing and Storage,Not Adj,2019,153100
+2020,May,California,50000000,Information,Not Adj,2019,500400
+2020,May,California,50511000,Publishing Industries (except Internet),Not Adj,2019,117900
+2020,May,California,50511100,"Newspaper, Periodical, Book and Director",Not Adj,2019,21600
+2020,May,California,50511200,Software Publishers,Not Adj,2019,96300
+2020,May,California,50512000,Motion Picture and Sound Recording,Not Adj,2019,93400
+2020,May,California,50512100,Motion Picture & Video Industries,Not Adj,2019,91300
+2020,May,California,50512110,Motion Picture & Video Production,Not Adj,2019,76100
+2020,May,California,50515000,Broadcasting (except Internet),Not Adj,2019,41900
+2020,May,California,50515100,Radio and Television Broadcasting,Not Adj,2019,27800
+2020,May,California,50515200,Cable and Other Subscription Programming,Not Adj,2019,14100
+2020,May,California,50517000,Telecommunications,Not Adj,2019,63900
+2020,May,California,50517311,Wired Telecommunications Carriers,Not Adj,2019,43100
+2020,May,California,50518000,"Data Processing, Hosting & Related Services",Not Adj,2019,54200
+2020,May,California,50519000,Other Information Serv.,Not Adj,2019,129100
+2020,May,California,55000000,Financial Activities,Not Adj,2019,823600
+2020,May,California,55520000,Finance and Insurance,Not Adj,2019,541300
+2020,May,California,55522000,Credit Intermediation and Related Activi,Not Adj,2019,241000
+2020,May,California,55522100,Depository Credit Intermediation,Not Adj,2019,141600
+2020,May,California,55522200,Nondepository Credit Intermediation,Not Adj,2019,56100
+2020,May,California,55522300,Activities Related to Credit Intermediat,Not Adj,2019,43300
+2020,May,California,55523000,"Securities, Commodity Contracts and Inve",Not Adj,2019,98600
+2020,May,California,55523100,Securities & Commodity Contracts,Not Adj,2019,32900
+2020,May,California,55523900,Other Financial Investment Activities,Not Adj,2019,65500
+2020,May,California,55524000,Insurance Carriers and Related,Not Adj,2019,201700
+2020,May,California,55524100,Insurance Carriers,Not Adj,2019,80500
+2020,May,California,55524200,"Agencies, Brokerages, and Other Insuranc",Not Adj,2019,121200
+2020,May,California,55530000,Real Estate and Rental and Leasing,Not Adj,2019,282300
+2020,May,California,55531000,Real Estate,Not Adj,2019,224500
+2020,May,California,55531100,Lessors of Real Estate,Not Adj,2019,62300
+2020,May,California,55531200,Offices of Real Estate Agents and Broker,Not Adj,2019,53400
+2020,May,California,55531300,Activities Related to Real Estate,Not Adj,2019,108800
+2020,May,California,55532000,Rental and Leasing Services,Not Adj,2019,56200
+2020,May,California,55532100,Automotive Equipment Rental and Leasing,Not Adj,2019,18500
+2020,May,California,55532200,Consumer Goods Rental,Not Adj,2019,13400
+2020,May,California,55532300,General Rental Centers,Not Adj,2019,2800
+2020,May,California,55532400,Comm & Industrial Mach Rental & Leasing,Not Adj,2019,21500
+2020,May,California,60000000,Professional and Business Services,Not Adj,2019,2494000
+2020,May,California,60540000,"Professional, Scientific and Technical S",Not Adj,2019,1264400
+2020,May,California,60541100,Legal Services,Not Adj,2019,133800
+2020,May,California,60541200,"Accounting, Tax Preparation and Bookkeep",Not Adj,2019,116700
+2020,May,California,60541300,"Architectural, Engineering and Related S",Not Adj,2019,176800
+2020,May,California,60541400,Specialized Design Services,Not Adj,2019,19500
+2020,May,California,60541500,Computer Systems Design and Related Serv,Not Adj,2019,342300
+2020,May,California,60541600,"Management, Scientific and Technical Con",Not Adj,2019,197500
+2020,May,California,60541700,Scientific Research and Development Serv,Not Adj,2019,151800
+2020,May,California,60541800,Advertising and Related Services,Not Adj,2019,57400
+2020,May,California,60541900,"Other Professional, Scientific and Techn",Not Adj,2019,68600
+2020,May,California,60550000,Management of Companies and Enterprises,Not Adj,2019,237000
+2020,May,California,60560000,Administrative and Support and Waste Ser,Not Adj,2019,992600
+2020,May,California,60561000,Administrative and Support Services,Not Adj,2019,940500
+2020,May,California,60561100,Office Administrative Services,Not Adj,2019,71700
+2020,May,California,60561200,Facilities Support Serv.,Not Adj,2019,13100
+2020,May,California,60561300,Employment Services,Not Adj,2019,365900
+2020,May,California,60561400,Business Support Services,Not Adj,2019,55000
+2020,May,California,60561500,Travel Arrangement and Reservation Servi,Not Adj,2019,24100
+2020,May,California,60561600,Investigation and Security Services,Not Adj,2019,147200
+2020,May,California,60561700,Services to Buildings and Dwellings,Not Adj,2019,231800
+2020,May,California,60561900,ResidualOther Support Services,Not Adj,2019,31700
+2020,May,California,60562000,Waste Management and Remediation Service,Not Adj,2019,52100
+2020,May,California,65000000,Educational and Health Services,Not Adj,2019,2578200
+2020,May,California,65610000,Educational Services,Not Adj,2019,355800
+2020,May,California,65611100,Elementary and Secondary Schools,Not Adj,2019,95100
+2020,May,California,65611200,Junior Colleges,Not Adj,2019,1900
+2020,May,California,65611300,"Colleges, Universities and Professional",Not Adj,2019,157500
+2020,May,California,65611600,Other Schools & Instruction,Not Adj,2019,58200
+2020,May,California,65620000,Health Care and Social Assistance,Not Adj,2019,2222400
+2020,May,California,65621000,Ambulatory Health Care Services,Not Adj,2019,769000
+2020,May,California,65621100,Offices of Physicians,Not Adj,2019,228300
+2020,May,California,65621200,Offices of Dentists,Not Adj,2019,80800
+2020,May,California,65621300,Offices of Other Health Practitioners,Not Adj,2019,84400
+2020,May,California,65621400,Outpatient Care Centers,Not Adj,2019,214400
+2020,May,California,65621500,Medical & Diagnostic Laboratories,Not Adj,2019,37500
+2020,May,California,65621600,Home Health Care Serv.,Not Adj,2019,94100
+2020,May,California,65621900,Other Ambulatory Health Care Serv.,Not Adj,2019,29500
+2020,May,California,65622000,Hospitals,Not Adj,2019,398400
+2020,May,California,65622100,General Medical & Surgical Hosp.s,Not Adj,2019,374100
+2020,May,California,65622200,Psychiatric & Substance Abuse Hosp,Not Adj,2019,8500
+2020,May,California,65622300,"Specialty (not Psych, Sub Abuse) Hosp.",Not Adj,2019,15800
+2020,May,California,65623000,Nursing and Residential Care Facilities,Not Adj,2019,292600
+2020,May,California,65623100,Nursing Care Facilities,Not Adj,2019,129800
+2020,May,California,65623200,"Residential Mental Retardation, Mental a",Not Adj,2019,54300
+2020,May,California,65623300,Comm Care Facilities for the Elderly,Not Adj,2019,96900
+2020,May,California,65623900,Other Residential Care Facilities,Not Adj,2019,11600
+2020,May,California,65624000,Social Assistance,Not Adj,2019,762400
+2020,May,California,65624100,Individual and Family Services,Not Adj,2019,666300
+2020,May,California,65624200,"Community Food & Housing, & Emergency &",Not Adj,2019,22600
+2020,May,California,65624300,Vocational Rehabilitation Services,Not Adj,2019,25900
+2020,May,California,65624400,Child Day Care Services,Not Adj,2019,47600
+2020,May,California,70000000,Leisure and Hospitality,Not Adj,2019,1139300
+2020,May,California,70710000,"Arts, Entertainment, and Recreation",Not Adj,2019,154200
+2020,May,California,70711000,"Performing Arts, Spectator Sports",Not Adj,2019,49600
+2020,May,California,70711100,Performing Arts Companies,Not Adj,2019,8600
+2020,May,California,70711200,Spectator Sports,Not Adj,2019,8500
+2020,May,California,70711500,"Independent Artists, Writers, and Perfor",Not Adj,2019,10300
+2020,May,California,70712000,"Museums, Historical Sites, and Similar I",Not Adj,2019,16300
+2020,May,California,70713000,"Amusement, Gambling, and Recreation",Not Adj,2019,88300
+2020,May,California,70713100,Amusement Parks and Arcades,Not Adj,2019,9400
+2020,May,California,70713200,Gambling Industries,Not Adj,2019,11400
+2020,May,California,70713900,Other Amusement and Recreation,Not Adj,2019,67500
+2020,May,California,70720000,Accommodation and Food Service,Not Adj,2019,985100
+2020,May,California,70721000,Accommodation,Not Adj,2019,105100
+2020,May,California,70722000,Food Services and Drinking Places,Not Adj,2019,880000
+2020,May,California,70722300,Special Food Services,Not Adj,2019,42800
+2020,May,California,70722400,Drinking Places (Alcoholic Beverages),Not Adj,2019,6200
+2020,May,California,70722511,Full-Service Restaurants,Not Adj,2019,279400
+2020,May,California,70722590,Limited-Service Eating Places,Not Adj,2019,551600
+2020,May,California,80000000,Other Services,Not Adj,2019,417500
+2020,May,California,80811000,Repair and Maintenance,Not Adj,2019,133600
+2020,May,California,80811100,Auto Repair & Maintenance,Not Adj,2019,98500
+2020,May,California,80811300,Commercial & Industrial Machinery,Not Adj,2019,16600
+2020,May,California,80811400,Personal & Household Goods Repair,Not Adj,2019,7700
+2020,May,California,80812000,Personal and Laundry Services,Not Adj,2019,82100
+2020,May,California,80812100,Personal Care Serv.,Not Adj,2019,16600
+2020,May,California,80812300,Drycleaning & Laundry Serv.,Not Adj,2019,29200
+2020,May,California,80812900,Other Personal Services,Not Adj,2019,26900
+2020,May,California,80813000,"Religious, Grantmaking, Civic, Professio",Not Adj,2019,201800
+2020,May,California,80813100,Religious Organizations,Not Adj,2019,92600
+2020,May,California,80813200,Grantmaking & Giving Serv.,Not Adj,2019,24500
+2020,May,California,80813300,Social Advocacy Organizations,Not Adj,2019,27500
+2020,May,California,80813400,Civic & Social Organizations,Not Adj,2019,23400
+2020,May,California,80813900,"Bus,Labor, Political & Other like Org.",Not Adj,2019,33800
+2020,May,California,90000000,Government,Not Adj,2019,2487800
+2020,May,California,90910000,Federal Government,Not Adj,2019,253800
+2020,May,California,90912991,Federal Government excluding Department of Defense,Not Adj,2019,189200
+2020,May,California,90919110,Department of Defense,Not Adj,2019,64600
+2020,May,California,90920000,State Government,Not Adj,2019,524800
+2020,May,California,90921611,State Government Education,Not Adj,2019,243100
+2020,May,California,90922000,State Government Excluding Education,Not Adj,2019,281700
+2020,May,California,90930000,Local Government,Not Adj,2019,1709200
+2020,May,California,90931150,Indian Tribes,Not Adj,2019,51400
+2020,May,California,90931611,Local Government Education,Not Adj,2019,920900
+2020,May,California,90932000,Local Government Excluding Education,Not Adj,2019,788300
+2020,May,California,90939012,County,Not Adj,2019,355500
+2020,May,California,90939022,City,Not Adj,2019,256400
+2020,May,California,90939032,Special Districts,Not Adj,2019,125000
+2020,May,California,90940000,State and Local Government,Not Adj,2019,2234000
+2020,Jun,California,0,Total Nonfarm,Not Adj,2019,15701800
+2020,Jun,California,1000000,Total Wage and Salary,Not Adj,2019,16077600
+2020,Jun,California,5000000,Total Private,Not Adj,2019,13264900
+2020,Jun,California,6000000,Goods Producing,Not Adj,2019,2100000
+2020,Jun,California,7000000,Service Providing,Not Adj,2019,13601800
+2020,Jun,California,8000000,Private Service Providing,Not Adj,2019,11164900
+2020,Jun,California,10000000,Mining and Logging,Not Adj,2019,22700
+2020,Jun,California,10113300,Logging,Not Adj,2019,2300
+2020,Jun,California,10210000,Mining,Not Adj,2019,20400
+2020,Jun,California,10211000,Oil & Gas Extraction,Not Adj,2019,4200
+2020,Jun,California,10212000,"Mining, except Oil & Gas",Not Adj,2019,6100
+2020,Jun,California,10213000,Support Activities for Mining,Not Adj,2019,10100
+2020,Jun,California,11000000,Total Farm,Not Adj,2019,375800
+2020,Jun,California,15000000,"Natural Resources, Mining and Constructi",Not Adj,2019,880000
+2020,Jun,California,20000000,Construction,Not Adj,2019,857300
+2020,Jun,California,20236000,Construction of Buildings,Not Adj,2019,203100
+2020,Jun,California,20236100,Residential Building Construction,Not Adj,2019,121400
+2020,Jun,California,20236200,Nonresidential Building Construction,Not Adj,2019,81700
+2020,Jun,California,20237000,Heavy and Civil Engineering Construction,Not Adj,2019,94500
+2020,Jun,California,20237100,Utility System Const.,Not Adj,2019,49900
+2020,Jun,California,20237200,L& Subdivision,Not Adj,2019,6600
+2020,Jun,California,20237300,"Highway, Street, and Bridge Const",Not Adj,2019,27000
+2020,Jun,California,20237900,Other Heavy & Civil Engineer,Not Adj,2019,11000
+2020,Jun,California,20238000,Specialty Trade Contractors,Not Adj,2019,559700
+2020,Jun,California,20238100,Building Foundation and Exterior Contrac,Not Adj,2019,120600
+2020,Jun,California,20238200,Building Equipment Contractors,Not Adj,2019,244100
+2020,Jun,California,20238300,Building Finishing Contractors,Not Adj,2019,131500
+2020,Jun,California,20238900,Other Specialty Trade Contract,Not Adj,2019,63500
+2020,Jun,California,30000000,Manufacturing,Not Adj,2019,1220000
+2020,Jun,California,31000000,Durable Goods,Not Adj,2019,801300
+2020,Jun,California,31321000,Wood Product Manufacturing,Not Adj,2019,25300
+2020,Jun,California,31321900,Other Wood Product Mfg.,Not Adj,2019,18600
+2020,Jun,California,31327000,Nonmetallic Mineral Product Mfg.,Not Adj,2019,31100
+2020,Jun,California,31331000,Primary Metal Manufacturing,Not Adj,2019,16300
+2020,Jun,California,31332000,Fabricated Metal Product Mfg,Not Adj,2019,121100
+2020,Jun,California,31332300,Architectural & Structural Metals Mfg.,Not Adj,2019,30500
+2020,Jun,California,31332700,Machine Shops & Threaded Product Mfg.,Not Adj,2019,40000
+2020,Jun,California,31332900,Other Fabricated Metal Product Mfg.,Not Adj,2019,15500
+2020,Jun,California,31333000,Machinery Manufacturing,Not Adj,2019,72500
+2020,Jun,California,31333200,Industrial Machinery Manufacturing,Not Adj,2019,19700
+2020,Jun,California,31333300,Commercial and Service Industry Manufact,Not Adj,2019,10000
+2020,Jun,California,31333500,Metalworking Machinery Mfg.,Not Adj,2019,12000
+2020,Jun,California,31333900,ResidualOther General Purpose Machinery,Not Adj,2019,14000
+2020,Jun,California,31334000,Computer and Electronic Product Manufact,Not Adj,2019,283800
+2020,Jun,California,31334100,Computer and Peripheral Equipment Manufa,Not Adj,2019,79300
+2020,Jun,California,31334111,Electronic Computer Manufacturing,Not Adj,2019,68400
+2020,Jun,California,31334200,Communications Equipment Manufacturing,Not Adj,2019,16500
+2020,Jun,California,31334400,Semiconductor and Electronic Component M,Not Adj,2019,81000
+2020,Jun,California,31334412,Bare Printed Circuit Board Manufacturing,Not Adj,2019,8100
+2020,Jun,California,31334413,Semiconductor and Related Devices Manufa,Not Adj,2019,40200
+2020,Jun,California,31334500,Electronic Instrument Manufacturing,Not Adj,2019,96300
+2020,Jun,California,31335000,Electrical Equipment and Appliance Manuf,Not Adj,2019,31800
+2020,Jun,California,31336000,Transportation Equipment Manufacturing,Not Adj,2019,111600
+2020,Jun,California,31336100,Motor Vehicle Mfg.,Not Adj,2019,8300
+2020,Jun,California,31336400,Aerospace Product and Parts Manufacturin,Not Adj,2019,73200
+2020,Jun,California,31336600,Ship and Boat Building,Not Adj,2019,9100
+2020,Jun,California,31337000,Furniture and Related Product Manufactur,Not Adj,2019,27500
+2020,Jun,California,31337100,Household and Institutional Furniture Ma,Not Adj,2019,16300
+2020,Jun,California,31339000,Miscellaneous Durable Goods Manufacturing,Not Adj,2019,80300
+2020,Jun,California,31339100,Medical Equipment & Supplies Mfg.,Not Adj,2019,54100
+2020,Jun,California,31339900,Other Miscellaneous Durable Goods Mfg.,Not Adj,2019,26200
+2020,Jun,California,32000000,Nondurable Goods,Not Adj,2019,418700
+2020,Jun,California,32311000,Food Manufacturing,Not Adj,2019,150500
+2020,Jun,California,32311400,Fruit & Vegetable Preserving & Specialty,Not Adj,2019,25000
+2020,Jun,California,32311500,Dairy Product Manufacturing,Not Adj,2019,16400
+2020,Jun,California,32311600,Animal Slaughtering and Processing,Not Adj,2019,20600
+2020,Jun,California,32311800,Bakeries and Tortilla Manufacturing,Not Adj,2019,40500
+2020,Jun,California,32311900,Other Food Mfg.,Not Adj,2019,31900
+2020,Jun,California,32312000,Beverage and Tobacco Product Mfg,Not Adj,2019,57600
+2020,Jun,California,32313000,ResidualTextile Mills,Not Adj,2019,4800
+2020,Jun,California,32314000,Textile Product Mills,Not Adj,2019,8300
+2020,Jun,California,32315000,Apparel Manufacturing,Not Adj,2019,16900
+2020,Jun,California,32315100,Apparel Knitting Mills,Not Adj,2019,700
+2020,Jun,California,32315200,Cut and Sew Apparel Manufacturing,Not Adj,2019,15600
+2020,Jun,California,32322000,Paper Manufacturing,Not Adj,2019,19200
+2020,Jun,California,32322200,Converted Paper Product Mfg.,Not Adj,2019,18400
+2020,Jun,California,32323000,Printing and Related Support Activities,Not Adj,2019,29000
+2020,Jun,California,32324000,Petroleum and Coal Products Manufacturin,Not Adj,2019,12400
+2020,Jun,California,32325000,Chemical Manufacturing,Not Adj,2019,78200
+2020,Jun,California,32325400,Pharmaceutical and Medicine Manufacturin,Not Adj,2019,46400
+2020,Jun,California,32325600,"Soap, Cleaning Compound & Toiletry Mfg.",Not Adj,2019,12600
+2020,Jun,California,32326000,Plastics and Rubber Products Manufacturi,Not Adj,2019,39200
+2020,Jun,California,40000000,"Trade, Transportation and Utilities",Not Adj,2019,2757000
+2020,Jun,California,41000000,Wholesale Trade,Not Adj,2019,646500
+2020,Jun,California,41423000,"Merchant Wholesalers, Durable Goods",Not Adj,2019,334200
+2020,Jun,California,41423100,Motor Vehicle and Motor Vehicle Parts Me,Not Adj,2019,35500
+2020,Jun,California,41423200,Furniture & Home Furnish Merch whole,Not Adj,2019,20800
+2020,Jun,California,41423300,Lumber & Other Const. Mat Merch whole,Not Adj,2019,24000
+2020,Jun,California,41423400,Professional and Commercial Equipment Me,Not Adj,2019,75900
+2020,Jun,California,41423600,Electrical and Electronic Goods Merchant,Not Adj,2019,48400
+2020,Jun,California,41423700,"Hdwr, Plumb & Heating Merchant whole",Not Adj,2019,28500
+2020,Jun,California,41423800,"Machinery, Equipment and Supplies Mercha",Not Adj,2019,51300
+2020,Jun,California,41424000,"Merchant Wholesalers, Nondurable Goods",Not Adj,2019,273700
+2020,Jun,California,41424100,Paper & Paper Products Merchant whole,Not Adj,2019,13500
+2020,Jun,California,41424300,"Apparel, Piece Gds & Notions Merch whole",Not Adj,2019,30900
+2020,Jun,California,41424400,Grocery & Related Products Merchant whol,Not Adj,2019,108200
+2020,Jun,California,41424600,Chemical & Allied Products Merchant whol,Not Adj,2019,12800
+2020,Jun,California,41424900,Misc Nondurable Merchant Wholesalers,Not Adj,2019,47300
+2020,Jun,California,41425000,Wholesale Electronic Markets and Agents,Not Adj,2019,38600
+2020,Jun,California,42000000,Retail Trade,Not Adj,2019,1443600
+2020,Jun,California,42441000,Motor Vehicle and Parts Dealer,Not Adj,2019,167000
+2020,Jun,California,42441100,Automobile Dealers,Not Adj,2019,109700
+2020,Jun,California,42441200,Other Motor Vehicle Dealers,Not Adj,2019,10000
+2020,Jun,California,42441300,"Automotive Parts, Accessories and Tire S",Not Adj,2019,47300
+2020,Jun,California,42442000,Furniture and Home Furnishings Stores,Not Adj,2019,35200
+2020,Jun,California,42442100,Furniture Stores,Not Adj,2019,14400
+2020,Jun,California,42442200,Home Furnishings Stores,Not Adj,2019,20800
+2020,Jun,California,42443000,Electronics and Appliance Stores,Not Adj,2019,43800
+2020,Jun,California,42444000,Building Material and Garden Equipment S,Not Adj,2019,124300
+2020,Jun,California,42444100,Building Material and Supplies Dealers,Not Adj,2019,111000
+2020,Jun,California,42445000,Food and Beverage Stores,Not Adj,2019,358700
+2020,Jun,California,42445100,Grocery Stores,Not Adj,2019,321300
+2020,Jun,California,42445200,Specialty Food Stores,Not Adj,2019,23700
+2020,Jun,California,42445300,"Beer, Wine, & Liquor Stores",Not Adj,2019,13700
+2020,Jun,California,42446000,Health and Personal Care Stores,Not Adj,2019,102500
+2020,Jun,California,42447000,Gasoline Stations,Not Adj,2019,56900
+2020,Jun,California,42448000,Clothing and Clothing Accessories Stores,Not Adj,2019,114800
+2020,Jun,California,42448100,Clothing Stores,Not Adj,2019,74000
+2020,Jun,California,42448300,"Jewelry, Luggage & Leather Gds Stores",Not Adj,2019,10600
+2020,Jun,California,42451000,"Sporting Goods, Hobby, Book and Music St",Not Adj,2019,52700
+2020,Jun,California,42451100,"Sporting Goods, Hobby and Musical Instru",Not Adj,2019,44800
+2020,Jun,California,42451200,"Book, Periodical and Music Stores",Not Adj,2019,7900
+2020,Jun,California,42452000,General Merchandise Stores,Not Adj,2019,259000
+2020,Jun,California,42452200,Department Stores,Not Adj,2019,68500
+2020,Jun,California,42452300,"General Merchandise Stores, including Warehouse Clubs and Supercenters",Not Adj,2019,190500
+2020,Jun,California,42453000,Miscellaneous Store Retailers,Not Adj,2019,66700
+2020,Jun,California,42453200,"Office Supplies, Stationery & Gift Store",Not Adj,2019,23100
+2020,Jun,California,42453300,Used Merch&ise Stores,Not Adj,2019,14800
+2020,Jun,California,42453900,Other Miscellaneous Store Retailers,Not Adj,2019,25400
+2020,Jun,California,42454000,Nonstore Retailers,Not Adj,2019,62000
+2020,Jun,California,42454100,Electronic Shopping & Mail-Order,Not Adj,2019,51800
+2020,Jun,California,43000000,"Transportation, Warehousing and Utilitie",Not Adj,2019,666900
+2020,Jun,California,43220000,Utilities,Not Adj,2019,57300
+2020,Jun,California,43221100,"Electric Power Gen, Trans & Distribution",Not Adj,2019,18600
+2020,Jun,California,43221200,Natural Gas Distribution,Not Adj,2019,33100
+2020,Jun,California,43400089,Transportation and Warehousing,Not Adj,2019,609600
+2020,Jun,California,43481000,Air Transportation,Not Adj,2019,52900
+2020,Jun,California,43481100,Scheduled Air transp.,Not Adj,2019,47500
+2020,Jun,California,43484000,Truck Transportation,Not Adj,2019,119100
+2020,Jun,California,43484100,General Freight Trucking,Not Adj,2019,83500
+2020,Jun,California,43484200,Specialized Freight Trucking,Not Adj,2019,35600
+2020,Jun,California,43485000,Transit and Ground Passenger Transportat,Not Adj,2019,53200
+2020,Jun,California,43488000,Support Activities for Transportation,Not Adj,2019,97700
+2020,Jun,California,43488300,Support Activities for Water transp.,Not Adj,2019,20900
+2020,Jun,California,43488400,Support Activities for Road transp.,Not Adj,2019,12000
+2020,Jun,California,43488500,Freight transp. Arrangement,Not Adj,2019,29200
+2020,Jun,California,43492000,Couriers and Messengers,Not Adj,2019,109500
+2020,Jun,California,43493000,Warehousing and Storage,Not Adj,2019,156300
+2020,Jun,California,50000000,Information,Not Adj,2019,509500
+2020,Jun,California,50511000,Publishing Industries (except Internet),Not Adj,2019,120000
+2020,Jun,California,50511100,"Newspaper, Periodical, Book and Director",Not Adj,2019,21700
+2020,Jun,California,50511200,Software Publishers,Not Adj,2019,98300
+2020,Jun,California,50512000,Motion Picture and Sound Recording,Not Adj,2019,94800
+2020,Jun,California,50512100,Motion Picture & Video Industries,Not Adj,2019,92500
+2020,Jun,California,50512110,Motion Picture & Video Production,Not Adj,2019,77100
+2020,Jun,California,50515000,Broadcasting (except Internet),Not Adj,2019,42100
+2020,Jun,California,50515100,Radio and Television Broadcasting,Not Adj,2019,28100
+2020,Jun,California,50515200,Cable and Other Subscription Programming,Not Adj,2019,14000
+2020,Jun,California,50517000,Telecommunications,Not Adj,2019,64400
+2020,Jun,California,50517311,Wired Telecommunications Carriers,Not Adj,2019,43600
+2020,Jun,California,50518000,"Data Processing, Hosting & Related Services",Not Adj,2019,55600
+2020,Jun,California,50519000,Other Information Serv.,Not Adj,2019,132600
+2020,Jun,California,55000000,Financial Activities,Not Adj,2019,830600
+2020,Jun,California,55520000,Finance and Insurance,Not Adj,2019,543000
+2020,Jun,California,55522000,Credit Intermediation and Related Activi,Not Adj,2019,241900
+2020,Jun,California,55522100,Depository Credit Intermediation,Not Adj,2019,142000
+2020,Jun,California,55522200,Nondepository Credit Intermediation,Not Adj,2019,56400
+2020,Jun,California,55522300,Activities Related to Credit Intermediat,Not Adj,2019,43500
+2020,Jun,California,55523000,"Securities, Commodity Contracts and Inve",Not Adj,2019,100000
+2020,Jun,California,55523100,Securities & Commodity Contracts,Not Adj,2019,33300
+2020,Jun,California,55523900,Other Financial Investment Activities,Not Adj,2019,66400
+2020,Jun,California,55524000,Insurance Carriers and Related,Not Adj,2019,201100
+2020,Jun,California,55524100,Insurance Carriers,Not Adj,2019,80300
+2020,Jun,California,55524200,"Agencies, Brokerages, and Other Insuranc",Not Adj,2019,120800
+2020,Jun,California,55530000,Real Estate and Rental and Leasing,Not Adj,2019,287600
+2020,Jun,California,55531000,Real Estate,Not Adj,2019,228900
+2020,Jun,California,55531100,Lessors of Real Estate,Not Adj,2019,64300
+2020,Jun,California,55531200,Offices of Real Estate Agents and Broker,Not Adj,2019,53900
+2020,Jun,California,55531300,Activities Related to Real Estate,Not Adj,2019,110700
+2020,Jun,California,55532000,Rental and Leasing Services,Not Adj,2019,56900
+2020,Jun,California,55532100,Automotive Equipment Rental and Leasing,Not Adj,2019,18700
+2020,Jun,California,55532200,Consumer Goods Rental,Not Adj,2019,14000
+2020,Jun,California,55532300,General Rental Centers,Not Adj,2019,2800
+2020,Jun,California,55532400,Comm & Industrial Mach Rental & Leasing,Not Adj,2019,21400
+2020,Jun,California,60000000,Professional and Business Services,Not Adj,2019,2532600
+2020,Jun,California,60540000,"Professional, Scientific and Technical S",Not Adj,2019,1284600
+2020,Jun,California,60541100,Legal Services,Not Adj,2019,134900
+2020,Jun,California,60541200,"Accounting, Tax Preparation and Bookkeep",Not Adj,2019,118000
+2020,Jun,California,60541300,"Architectural, Engineering and Related S",Not Adj,2019,179500
+2020,Jun,California,60541400,Specialized Design Services,Not Adj,2019,21500
+2020,Jun,California,60541500,Computer Systems Design and Related Serv,Not Adj,2019,344000
+2020,Jun,California,60541600,"Management, Scientific and Technical Con",Not Adj,2019,201900
+2020,Jun,California,60541700,Scientific Research and Development Serv,Not Adj,2019,154400
+2020,Jun,California,60541800,Advertising and Related Services,Not Adj,2019,58700
+2020,Jun,California,60541900,"Other Professional, Scientific and Techn",Not Adj,2019,71700
+2020,Jun,California,60550000,Management of Companies and Enterprises,Not Adj,2019,241400
+2020,Jun,California,60560000,Administrative and Support and Waste Ser,Not Adj,2019,1006600
+2020,Jun,California,60561000,Administrative and Support Services,Not Adj,2019,954200
+2020,Jun,California,60561100,Office Administrative Services,Not Adj,2019,72700
+2020,Jun,California,60561200,Facilities Support Serv.,Not Adj,2019,13200
+2020,Jun,California,60561300,Employment Services,Not Adj,2019,368000
+2020,Jun,California,60561400,Business Support Services,Not Adj,2019,56200
+2020,Jun,California,60561500,Travel Arrangement and Reservation Servi,Not Adj,2019,24100
+2020,Jun,California,60561600,Investigation and Security Services,Not Adj,2019,149800
+2020,Jun,California,60561700,Services to Buildings and Dwellings,Not Adj,2019,236500
+2020,Jun,California,60561900,ResidualOther Support Services,Not Adj,2019,33700
+2020,Jun,California,60562000,Waste Management and Remediation Service,Not Adj,2019,52400
+2020,Jun,California,65000000,Educational and Health Services,Not Adj,2019,2642200
+2020,Jun,California,65610000,Educational Services,Not Adj,2019,348400
+2020,Jun,California,65611100,Elementary and Secondary Schools,Not Adj,2019,92900
+2020,Jun,California,65611200,Junior Colleges,Not Adj,2019,1900
+2020,Jun,California,65611300,"Colleges, Universities and Professional",Not Adj,2019,150200
+2020,Jun,California,65611600,Other Schools & Instruction,Not Adj,2019,62600
+2020,Jun,California,65620000,Health Care and Social Assistance,Not Adj,2019,2293800
+2020,Jun,California,65621000,Ambulatory Health Care Services,Not Adj,2019,824900
+2020,Jun,California,65621100,Offices of Physicians,Not Adj,2019,240100
+2020,Jun,California,65621200,Offices of Dentists,Not Adj,2019,110000
+2020,Jun,California,65621300,Offices of Other Health Practitioners,Not Adj,2019,97900
+2020,Jun,California,65621400,Outpatient Care Centers,Not Adj,2019,215600
+2020,Jun,California,65621500,Medical & Diagnostic Laboratories,Not Adj,2019,37700
+2020,Jun,California,65621600,Home Health Care Serv.,Not Adj,2019,93800
+2020,Jun,California,65621900,Other Ambulatory Health Care Serv.,Not Adj,2019,29800
+2020,Jun,California,65622000,Hospitals,Not Adj,2019,399500
+2020,Jun,California,65622100,General Medical & Surgical Hosp.s,Not Adj,2019,375000
+2020,Jun,California,65622200,Psychiatric & Substance Abuse Hosp,Not Adj,2019,8600
+2020,Jun,California,65622300,"Specialty (not Psych, Sub Abuse) Hosp.",Not Adj,2019,15900
+2020,Jun,California,65623000,Nursing and Residential Care Facilities,Not Adj,2019,292100
+2020,Jun,California,65623100,Nursing Care Facilities,Not Adj,2019,128500
+2020,Jun,California,65623200,"Residential Mental Retardation, Mental a",Not Adj,2019,55300
+2020,Jun,California,65623300,Comm Care Facilities for the Elderly,Not Adj,2019,96700
+2020,Jun,California,65623900,Other Residential Care Facilities,Not Adj,2019,11600
+2020,Jun,California,65624000,Social Assistance,Not Adj,2019,777300
+2020,Jun,California,65624100,Individual and Family Services,Not Adj,2019,675500
+2020,Jun,California,65624200,"Community Food & Housing, & Emergency &",Not Adj,2019,22800
+2020,Jun,California,65624300,Vocational Rehabilitation Services,Not Adj,2019,28600
+2020,Jun,California,65624400,Child Day Care Services,Not Adj,2019,50400
+2020,Jun,California,70000000,Leisure and Hospitality,Not Adj,2019,1446100
+2020,Jun,California,70710000,"Arts, Entertainment, and Recreation",Not Adj,2019,210200
+2020,Jun,California,70711000,"Performing Arts, Spectator Sports",Not Adj,2019,46900
+2020,Jun,California,70711100,Performing Arts Companies,Not Adj,2019,7800
+2020,Jun,California,70711200,Spectator Sports,Not Adj,2019,8800
+2020,Jun,California,70711500,"Independent Artists, Writers, and Perfor",Not Adj,2019,10500
+2020,Jun,California,70712000,"Museums, Historical Sites, and Similar I",Not Adj,2019,17100
+2020,Jun,California,70713000,"Amusement, Gambling, and Recreation",Not Adj,2019,146200
+2020,Jun,California,70713100,Amusement Parks and Arcades,Not Adj,2019,14000
+2020,Jun,California,70713200,Gambling Industries,Not Adj,2019,15000
+2020,Jun,California,70713900,Other Amusement and Recreation,Not Adj,2019,117200
+2020,Jun,California,70720000,Accommodation and Food Service,Not Adj,2019,1235900
+2020,Jun,California,70721000,Accommodation,Not Adj,2019,142000
+2020,Jun,California,70722000,Food Services and Drinking Places,Not Adj,2019,1093900
+2020,Jun,California,70722300,Special Food Services,Not Adj,2019,43800
+2020,Jun,California,70722400,Drinking Places (Alcoholic Beverages),Not Adj,2019,13000
+2020,Jun,California,70722511,Full-Service Restaurants,Not Adj,2019,422900
+2020,Jun,California,70722590,Limited-Service Eating Places,Not Adj,2019,614200
+2020,Jun,California,80000000,Other Services,Not Adj,2019,446900
+2020,Jun,California,80811000,Repair and Maintenance,Not Adj,2019,142600
+2020,Jun,California,80811100,Auto Repair & Maintenance,Not Adj,2019,106000
+2020,Jun,California,80811300,Commercial & Industrial Machinery,Not Adj,2019,16900
+2020,Jun,California,80811400,Personal & Household Goods Repair,Not Adj,2019,8200
+2020,Jun,California,80812000,Personal and Laundry Services,Not Adj,2019,100800
+2020,Jun,California,80812100,Personal Care Serv.,Not Adj,2019,25800
+2020,Jun,California,80812300,Drycleaning & Laundry Serv.,Not Adj,2019,29300
+2020,Jun,California,80812900,Other Personal Services,Not Adj,2019,35200
+2020,Jun,California,80813000,"Religious, Grantmaking, Civic, Professio",Not Adj,2019,203500
+2020,Jun,California,80813100,Religious Organizations,Not Adj,2019,90900
+2020,Jun,California,80813200,Grantmaking & Giving Serv.,Not Adj,2019,25600
+2020,Jun,California,80813300,Social Advocacy Organizations,Not Adj,2019,27700
+2020,Jun,California,80813400,Civic & Social Organizations,Not Adj,2019,25800
+2020,Jun,California,80813900,"Bus,Labor, Political & Other like Org.",Not Adj,2019,33500
+2020,Jun,California,90000000,Government,Not Adj,2019,2436900
+2020,Jun,California,90910000,Federal Government,Not Adj,2019,256500
+2020,Jun,California,90912991,Federal Government excluding Department of Defense,Not Adj,2019,191900
+2020,Jun,California,90919110,Department of Defense,Not Adj,2019,64600
+2020,Jun,California,90920000,State Government,Not Adj,2019,492700
+2020,Jun,California,90921611,State Government Education,Not Adj,2019,209600
+2020,Jun,California,90922000,State Government Excluding Education,Not Adj,2019,283100
+2020,Jun,California,90930000,Local Government,Not Adj,2019,1687700
+2020,Jun,California,90931150,Indian Tribes,Not Adj,2019,58800
+2020,Jun,California,90931611,Local Government Education,Not Adj,2019,889000
+2020,Jun,California,90932000,Local Government Excluding Education,Not Adj,2019,798700
+2020,Jun,California,90939012,County,Not Adj,2019,356500
+2020,Jun,California,90939022,City,Not Adj,2019,256700
+2020,Jun,California,90939032,Special Districts,Not Adj,2019,126700
+2020,Jun,California,90940000,State and Local Government,Not Adj,2019,2180400
